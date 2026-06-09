@@ -6,10 +6,30 @@ import { Market } from "./types";
 const dataFile = path.join(process.cwd(), "data", "markets.json");
 const BLOB_PATHNAME = "markets.json";
 
+export const BLOB_SETUP_HINT =
+  "Vercel → Storage → Blob → Create → Connect to Project → Redeploy (injecte BLOB_READ_WRITE_TOKEN).";
+
 export type StorageMode = "blob" | "file";
 
+export function isVercelRuntime(): boolean {
+  return process.env.VERCEL === "1";
+}
+
+export function hasBlobStorage(): boolean {
+  return Boolean(
+    process.env.BLOB_READ_WRITE_TOKEN?.trim() || process.env.BLOB_STORE_ID?.trim()
+  );
+}
+
 export function getStorageMode(): StorageMode {
-  return process.env.BLOB_READ_WRITE_TOKEN?.trim() ? "blob" : "file";
+  if (isVercelRuntime() || hasBlobStorage()) return "blob";
+  return "file";
+}
+
+function assertBlobReady(): void {
+  if (getStorageMode() === "blob" && !hasBlobStorage()) {
+    throw new Error(`Stockage Blob manquant. ${BLOB_SETUP_HINT}`);
+  }
 }
 
 function parseMarkets(raw: string): Market[] {
@@ -19,6 +39,7 @@ function parseMarkets(raw: string): Market[] {
 }
 
 async function ensureDataFile(): Promise<void> {
+  if (isVercelRuntime()) return;
   await fs.mkdir(path.dirname(dataFile), { recursive: true });
   try {
     await fs.access(dataFile);
@@ -27,10 +48,18 @@ async function ensureDataFile(): Promise<void> {
   }
 }
 
+async function readBundledMarketsFile(): Promise<Market[]> {
+  try {
+    const raw = await fs.readFile(dataFile, "utf8");
+    return parseMarkets(raw);
+  } catch {
+    return [];
+  }
+}
+
 async function readLocalFile(): Promise<Market[]> {
   await ensureDataFile();
-  const raw = await fs.readFile(dataFile, "utf8");
-  return parseMarkets(raw);
+  return readBundledMarketsFile();
 }
 
 async function readFromBlob(): Promise<Market[] | null> {
@@ -56,10 +85,12 @@ async function writeToBlob(markets: Market[]): Promise<void> {
 
 export async function readMarkets(): Promise<Market[]> {
   if (getStorageMode() === "blob") {
+    assertBlobReady();
+
     const fromBlob = await readFromBlob();
     if (fromBlob) return fromBlob;
 
-    const local = await readLocalFile();
+    const local = await readBundledMarketsFile();
     if (local.length > 0) {
       await writeToBlob(local);
     }
@@ -71,6 +102,7 @@ export async function readMarkets(): Promise<Market[]> {
 
 export async function writeMarkets(markets: Market[]): Promise<void> {
   if (getStorageMode() === "blob") {
+    assertBlobReady();
     await writeToBlob(markets);
     return;
   }

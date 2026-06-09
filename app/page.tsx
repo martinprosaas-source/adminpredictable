@@ -76,6 +76,18 @@ export default function Page() {
   const [analyzeSummary, setAnalyzeSummary] = useState<AnalyzeSummary | null>(null);
   const [analyzeProgress, setAnalyzeProgress] = useState<AnalyzeProgress | null>(null);
   const [expandedId, setExpandedId] = useState<string | null>(null);
+  const [storageHint, setStorageHint] = useState<string | null>(null);
+
+  useEffect(() => {
+    void fetch("/api/env-status")
+      .then((res) => res.json())
+      .then((json: { storageReady?: boolean; storageHint?: string }) => {
+        if (json.storageReady === false && json.storageHint) {
+          setStorageHint(json.storageHint);
+        }
+      })
+      .catch(() => undefined);
+  }, []);
 
   async function loadMarkets(currentCategory: Category, mode: ListMode): Promise<void> {
     try {
@@ -200,6 +212,13 @@ export default function Page() {
         <h1 className="text-2xl font-semibold">Admin Predictable</h1>
         <div className="text-sm text-slate-400">Back-office des marches de prediction</div>
       </div>
+
+      {storageHint ? (
+        <div className="mb-6 rounded-lg border border-amber-500/40 bg-amber-950/40 px-4 py-3 text-sm text-amber-100">
+          <p className="font-medium">Stockage Blob non configure sur Vercel</p>
+          <p className="mt-1 text-amber-200/90">{storageHint}</p>
+        </div>
+      ) : null}
 
       <section className="card mb-6 p-4">
         <div className="mb-3 flex flex-wrap items-center justify-between gap-2">
