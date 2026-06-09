@@ -191,7 +191,9 @@ async function callResponsesWithWebSearch(
   marketTitle: string,
   marketUrl?: string
 ): Promise<{ data: Record<string, unknown> } | { error: string }> {
-  const res = await fetch("https://api.openai.com/v1/responses", {
+  let res: Response;
+  try {
+    res = await fetch("https://api.openai.com/v1/responses", {
     method: "POST",
     headers: {
       "Content-Type": "application/json",
@@ -206,7 +208,10 @@ async function callResponsesWithWebSearch(
       ]
     }),
     cache: "no-store"
-  });
+    });
+  } catch (error) {
+    return { error: `OpenAI Responses (reseau): ${error instanceof Error ? error.message : String(error)}` };
+  }
 
   if (!res.ok) {
     const errText = await res.text();
@@ -223,7 +228,9 @@ async function callChatFallback(
   marketTitle: string,
   marketUrl?: string
 ): Promise<{ data: Record<string, unknown> } | { error: string }> {
-  const res = await fetch("https://api.openai.com/v1/chat/completions", {
+  let res: Response;
+  try {
+    res = await fetch("https://api.openai.com/v1/chat/completions", {
     method: "POST",
     headers: {
       "Content-Type": "application/json",
@@ -239,7 +246,10 @@ async function callChatFallback(
       ]
     }),
     cache: "no-store"
-  });
+    });
+  } catch (error) {
+    return { error: `OpenAI Chat (reseau): ${error instanceof Error ? error.message : String(error)}` };
+  }
 
   if (!res.ok) {
     const errText = await res.text();

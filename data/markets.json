@@ -4186,42 +4186,42 @@
     "resolution": "pending",
     "analysisLabel": "Apparition d'Elon Musk dans l'actualité politique américaine en juin 2026",
     "sources": [
-      "https://www.semafor.com/article/05/21/2026/elon-musk-mark-zuckerberg-derail-trump-ai-order",
-      "https://www.boursorama.com/bourse/actualites-amp/la-sec-et-elon-musk-defendent-l-accord-de-compromis-concernant-les-achats-sur-twitter-dbddd148794e9900fe766d31b95f2873",
-      "https://www.cbsnews.com/news/spacex-ipo-biggest-ever-elon-musk-trillionaire/"
+      "https://www.whitehouse.gov/presidential-actions/2026/06/promoting-advanced-artificial-intelligence-innovation-and-security/",
+      "https://ca.investing.com/news/stock-market-news/sec-elon-musk-defend-compromise-settlement-over-twitter-purchases-4671787",
+      "https://www.semafor.com/article/05/21/2026/elon-musk-mark-zuckerberg-derail-trump-ai-order"
     ],
-    "lastAnalysisAt": "2026-06-06T11:24:28.220Z",
+    "lastAnalysisAt": "2026-06-08T09:01:59.415Z",
     "confidence": "medium",
     "evidence": [
       {
-        "url": "https://www.semafor.com/article/05/21/2026/elon-musk-mark-zuckerberg-derail-trump-ai-order",
-        "title": "Musk, Zuckerberg derail Trump AI order",
-        "excerpt": "The Trump administration’s plans for an executive order regulating artificial intelligence were put on hold this week after some of the tech industry’s biggest players, including Elon Musk, Mark Zuckerberg, and venture capitalist David Sacks, persuaded the White House to call it off, according to people familiar with the matter.",
-        "supports": "neutral",
-        "publishedAt": "2026-05-22",
-        "onTopic": false,
-        "relevance": "Cet article décrit l'implication d'Elon Musk dans le report d'un décret sur l'IA en mai 2026, ce qui est hors de la période spécifiée en juin 2026."
-      },
-      {
-        "url": "https://www.boursorama.com/bourse/actualites-amp/la-sec-et-elon-musk-defendent-l-accord-de-compromis-concernant-les-achats-sur-twitter-dbddd148794e9900fe766d31b95f2873",
-        "title": "La SEC et Elon Musk défendent l'accord de « compromis » concernant les achats sur Twitter",
-        "excerpt": "Elon Musk et la Commission américaine des opérations boursières (SEC) ont défendu leur accord concernant l'achat d'actions Twitter par ce dernier, affirmant qu'il reflétait des compromis et n'était pas entaché de collusion, après que le juge chargé de l'affaire eut déclaré que cet accord soulevait des « signaux d'alerte ».",
+        "url": "https://www.whitehouse.gov/presidential-actions/2026/06/promoting-advanced-artificial-intelligence-innovation-and-security/",
+        "title": "Promoting Advanced Artificial Intelligence Innovation and Security – The White House",
+        "excerpt": "Le président Donald Trump a signé un décret exécutif établissant un cadre pour que le gouvernement fédéral évalue les risques de sécurité nationale des systèmes d'IA les plus avancés avant leur mise sur le marché.",
         "supports": "neutral",
         "publishedAt": "2026-06-02",
-        "onTopic": true,
-        "relevance": "Cet article traite de la défense par Elon Musk et la SEC d'un accord concernant l'achat d'actions Twitter, ce qui le place dans l'actualité politique américaine en juin 2026."
+        "onTopic": false,
+        "relevance": "Bien que ce décret concerne l'IA, il ne mentionne pas directement Elon Musk."
       },
       {
-        "url": "https://www.cbsnews.com/news/spacex-ipo-biggest-ever-elon-musk-trillionaire/",
-        "title": "SpaceX plans biggest stock market debut ever — and it could make Elon Musk world's first trillionaire",
-        "excerpt": "SpaceX says it plans to raise up to $75 billion when it goes public this month, setting the stage for the largest-ever stock market debut and putting Elon Musk — the world's richest person — on course to becoming the first trillionaire.",
+        "url": "https://ca.investing.com/news/stock-market-news/sec-elon-musk-defend-compromise-settlement-over-twitter-purchases-4671787",
+        "title": "SEC, Elon Musk defend 'compromise' settlement over Twitter purchases",
+        "excerpt": "Elon Musk et la SEC ont défendu leur accord concernant l'achat d'actions Twitter par Musk, affirmant qu'il reflétait des compromis et n'était pas entaché de collusion.",
         "supports": "neutral",
-        "publishedAt": "2026-06-04",
+        "publishedAt": "2026-06-02",
         "onTopic": false,
-        "relevance": "Cet article concerne l'introduction en bourse de SpaceX et la fortune personnelle d'Elon Musk, sans lien direct avec l'actualité politique américaine."
+        "relevance": "Cet événement est lié à des questions financières et juridiques, sans lien direct avec l'actualité politique."
+      },
+      {
+        "url": "https://www.semafor.com/article/05/21/2026/elon-musk-mark-zuckerberg-derail-trump-ai-order",
+        "title": "Musk, Zuckerberg derail Trump AI order",
+        "excerpt": "Elon Musk et d'autres leaders technologiques ont persuadé l'administration Trump de suspendre un décret exécutif visant à réglementer l'intelligence artificielle.",
+        "supports": "neutral",
+        "publishedAt": "2026-05-21",
+        "onTopic": false,
+        "relevance": "Bien que Musk ait influencé une décision politique, cet événement s'est produit en mai 2026, en dehors de la période spécifiée."
       }
     ],
-    "explanationFr": "Plusieurs événements récents impliquent Elon Musk dans des contextes liés à la politique américaine en juin 2026. Cependant, il n'est pas certain que ces événements constituent une 'apparition' directe dans l'actualité politique. Une surveillance continue est nécessaire pour déterminer si de nouvelles informations confirment ou infirment cette apparition.",
+    "explanationFr": "Plusieurs événements récents impliquent Elon Musk dans le contexte politique américain en juin 2026. Cependant, ces événements ne constituent pas des apparitions directes de Musk dans l'actualité politique, mais plutôt des implications indirectes. Par conséquent, la résolution du marché reste en attente en l'absence de preuves plus concluantes.",
     "needsReview": false
   },
   {
@@ -4230,35 +4230,35 @@
     "category": "politique",
     "status": "open",
     "resolution": "pending",
-    "analysisLabel": "1 preuve decisive — en attente d'une seconde source independante",
+    "analysisLabel": "Vote de lois majeures en juin 2026",
     "sources": [
       "https://www.assemblee-nationale.fr/dyn/actualites-accueil-hub/adoption-du-projet-de-loi-d-urgence-pour-la-protection-et-la-souverainete-agricoles",
-      "https://www.assemblee-nationale.fr/dyn/seance-publique/textes-inscrits-ordre-du-jour"
+      "https://lcp.fr/actualites/info-lcp-aide-a-mourir-pas-d-accord-entre-deputes-et-senateurs-le-texte-reviendra-a-l"
     ],
-    "lastAnalysisAt": "2026-06-06T11:24:40.304Z",
+    "lastAnalysisAt": "2026-06-08T09:02:08.139Z",
     "confidence": "medium",
     "evidence": [
       {
         "url": "https://www.assemblee-nationale.fr/dyn/actualites-accueil-hub/adoption-du-projet-de-loi-d-urgence-pour-la-protection-et-la-souverainete-agricoles",
         "title": "Adoption du projet de loi d’urgence pour la protection et la souveraineté agricoles",
         "excerpt": "Le mardi 2 juin après-midi, après les Questions au Gouvernement, l'Assemblée nationale a procédé au vote solennel et adopté le projet de loi d’urgence pour la protection et la souveraineté agricoles.",
-        "supports": "yes",
+        "supports": "neutral",
         "publishedAt": "2026-06-02",
-        "onTopic": true,
-        "relevance": "L'Assemblée nationale a adopté un texte de loi majeur en juin 2026."
+        "onTopic": false,
+        "relevance": "Le vote a eu lieu le 2 juin, avant la période spécifiée."
       },
       {
-        "url": "https://www.assemblee-nationale.fr/dyn/seance-publique/textes-inscrits-ordre-du-jour",
-        "title": "Textes inscrits à l'ordre du jour - Assemblée nationale",
-        "excerpt": "Cette page indique, sur plusieurs semaines de séance, la liste des textes à l'ordre du jour et les liens vers les dossiers législatifs.",
+        "url": "https://lcp.fr/actualites/info-lcp-aide-a-mourir-pas-d-accord-entre-deputes-et-senateurs-le-texte-reviendra-a-l",
+        "title": "Aide à mourir: pas d'accord entre députés et sénateurs, le texte reviendra à l'Assemblée le 22 juin",
+        "excerpt": "La tentative de conciliation entre l'Assemblée nationale et le Sénat a échoué. Les députés et sénateurs réunis en commission mixte paritaire (CMP), ce mardi 2 juin, n'ont pas trouvé d'accord sur proposition de loi 'relative au droit à l'aide à mourir'. Le processus législatif va donc se poursuivre avec un nouvel examen du texte par les députés la semaine du 22 juin.",
         "supports": "neutral",
-        "publishedAt": "2026-06-01",
+        "publishedAt": "2026-06-02",
         "onTopic": true,
-        "relevance": "Plusieurs textes de loi majeurs sont inscrits à l'ordre du jour en juin 2026, mais n'ont pas encore été votés."
+        "relevance": "Un vote sur un texte majeur est prévu le 22 juin, mais n'a pas encore eu lieu."
       }
     ],
-    "explanationFr": "Au 6 juin 2026, l'Assemblée nationale a adopté le 2 juin un projet de loi d'urgence pour la protection et la souveraineté agricoles, considéré comme un texte majeur. D'autres textes importants sont inscrits à l'ordre du jour pour le mois de juin, mais n'ont pas encore été votés. Par conséquent, bien qu'un texte majeur ait déjà été adopté, il est prématuré de conclure sur l'ensemble du mois.",
-    "needsReview": true
+    "explanationFr": "L'Assemblée nationale a adopté le 2 juin 2026 le projet de loi d'urgence pour la protection et la souveraineté agricoles. Cependant, ce vote a eu lieu avant le début de la période spécifiée (juin 2026). D'autres textes, comme la proposition de loi relative au droit à l'aide à mourir, sont prévus pour examen le 22 juin 2026. Ainsi, bien que des votes importants soient programmés, il est trop tôt pour confirmer si un texte de loi majeur sera adopté en juin 2026.",
+    "needsReview": false
   },
   {
     "id": "2e66d19426c60b81",
@@ -4268,9 +4268,10 @@
     "resolution": "pending",
     "analysisLabel": "Réunion ministérielle de l'OTAN en juin 2026",
     "sources": [
-      "https://www.nato.int/fr/news-and-events/events/media-advisories/2026/05/26/meeting-of-nato-ministers-of-defence-brussels-18-june-2026"
+      "https://www.nato.int/fr/news-and-events/events/media-advisories/2026/05/26/meeting-of-nato-ministers-of-defence-brussels-18-june-2026",
+      "https://www.nato.int/fr/news-and-events/articles/news/2026/05/08/nato-high-level-group-discusses-nuclear-deterrence-ahead-of-june-npg-meeting"
     ],
-    "lastAnalysisAt": "2026-06-06T11:24:49.103Z",
+    "lastAnalysisAt": "2026-06-08T09:02:30.115Z",
     "confidence": "medium",
     "evidence": [
       {
@@ -4280,10 +4281,19 @@
         "supports": "yes",
         "publishedAt": "2026-05-26",
         "onTopic": true,
-        "relevance": "Annonce officielle d'une réunion ministérielle de l'OTAN en juin 2026."
+        "relevance": "Confirme la tenue d'une réunion ministérielle de l'OTAN en juin 2026."
+      },
+      {
+        "url": "https://www.nato.int/fr/news-and-events/articles/news/2026/05/08/nato-high-level-group-discusses-nuclear-deterrence-ahead-of-june-npg-meeting",
+        "title": "Dissuasion nucléaire : le Groupe de haut niveau de l’OTAN se réunit en préparation de la réunion du NPG prévue en juin",
+        "excerpt": "Le Groupe de haut niveau s’est réuni à Bruxelles pour préparer la réunion que le NPG tiendra en juin 2026.",
+        "supports": "yes",
+        "publishedAt": "2026-05-08",
+        "onTopic": true,
+        "relevance": "Indique qu'une réunion ministérielle du NPG de l'OTAN est prévue en juin 2026."
       }
     ],
-    "explanationFr": "L'OTAN a prévu une réunion des ministres de la Défense le 18 juin 2026 à Bruxelles, confirmée par des sources officielles. Aucune autre réunion ministérielle de l'OTAN n'est annoncée pour juin 2026.",
+    "explanationFr": "L'OTAN a programmé une réunion des ministres de la Défense le 18 juin 2026 à Bruxelles, confirmée par un avis aux médias publié le 26 mai 2026. De plus, une réunion du Groupe des plans nucléaires (NPG) est prévue en juin 2026, selon une annonce du 8 mai 2026. Ces informations indiquent que l'OTAN tiendra des réunions ministérielles en juin 2026.",
     "needsReview": false
   },
   {
@@ -4294,42 +4304,42 @@
     "resolution": "pending",
     "analysisLabel": "Adoption de nouvelles directives ou règlements par l'UE en juin 2026",
     "sources": [
+      "https://digital-strategy.ec.europa.eu/en/news/commission-opens-consultation-draft-guidelines-ai-transparency-obligations",
       "https://www.consilium.europa.eu/fr/press/press-releases/2026/05/12/council-and-parliament-strike-deal-on-new-eu-rules-to-protect-vulnerable-adults/pdf/",
-      "https://agenceurope.eu/en/bulletin/article/13864/1/eu-council-and-european-parliament-reach-agreement-to-simplify-ai-rules-and-ban-digital-nudifier-apps-like-grok",
-      "https://digital-strategy.ec.europa.eu/fr/library/proposal-cloud-and-ai-development-act-cada"
+      "https://www.atibt.org/fr/news/13864/eudr-european-commission-publishes-its-simplification-package"
     ],
-    "lastAnalysisAt": "2026-06-06T11:25:03.857Z",
+    "lastAnalysisAt": "2026-06-08T09:02:40.635Z",
     "confidence": "medium",
     "evidence": [
       {
-        "url": "https://www.consilium.europa.eu/fr/press/press-releases/2026/05/12/council-and-parliament-strike-deal-on-new-eu-rules-to-protect-vulnerable-adults/pdf/",
-        "title": "Conseil et Parlement: accord sur de nouvelles règles de l'UE visant à protéger les adultes vulnérables",
-        "excerpt": "Le Conseil et le Parlement européen sont convenus de nouvelles règles visant à protéger les droits des adultes qui ont besoin d'une protection ou d'un soutien dans des situations transfrontières.",
-        "supports": "neutral",
-        "publishedAt": "2026-05-12",
-        "onTopic": true,
-        "relevance": "Un accord a été trouvé en mai 2026, mais l'adoption formelle de la législation pourrait intervenir en juin 2026."
-      },
-      {
-        "url": "https://agenceurope.eu/en/bulletin/article/13864/1/eu-council-and-european-parliament-reach-agreement-to-simplify-ai-rules-and-ban-digital-nudifier-apps-like-grok",
-        "title": "EU Council and European Parliament reach agreement to simplify AI rules and ban ‘digital nudifier’ apps like Grok",
-        "excerpt": "Le 7 mai 2026, le Conseil et le Parlement européen ont conclu un accord provisoire sur le paquet 'Digital Omnibus' visant à simplifier l'application de la loi sur l'intelligence artificielle.",
+        "url": "https://digital-strategy.ec.europa.eu/en/news/commission-opens-consultation-draft-guidelines-ai-transparency-obligations",
+        "title": "La Commission ouvre une consultation sur les projets de lignes directrices concernant les obligations de transparence de l'IA",
+        "excerpt": "La Commission européenne a publié des projets de lignes directrices sur les obligations de transparence de l'IA pour consultation, en vue de leur adoption future.",
         "supports": "neutral",
         "publishedAt": "2026-05-08",
-        "onTopic": true,
-        "relevance": "Un accord provisoire a été conclu en mai 2026, mais l'adoption formelle pourrait avoir lieu en juin 2026."
+        "onTopic": false,
+        "relevance": "Cette consultation est en cours et n'a pas encore abouti à l'adoption d'une directive ou d'un règlement en juin 2026."
       },
       {
-        "url": "https://digital-strategy.ec.europa.eu/fr/library/proposal-cloud-and-ai-development-act-cada",
-        "title": "Proposition de règlement sur le développement de l’informatique en nuage et de l’IA (CADA)",
-        "excerpt": "La Commission a adopté une proposition de règlement sur le développement de l’informatique en nuage et de l’IA (CADA) dans le but de renforcer l’écosystème, les investissements et les infrastructures de l’UE en matière d’informatique en nuage et d’IA.",
+        "url": "https://www.consilium.europa.eu/fr/press/press-releases/2026/05/12/council-and-parliament-strike-deal-on-new-eu-rules-to-protect-vulnerable-adults/pdf/",
+        "title": "Conseil et Parlement : accord sur de nouvelles règles de l'UE visant à protéger les adultes vulnérables",
+        "excerpt": "Le Conseil et le Parlement européen sont convenus de nouvelles règles visant à protéger les droits des adultes vulnérables dans des situations transfrontalières.",
         "supports": "neutral",
-        "publishedAt": "2026-06-03",
-        "onTopic": true,
-        "relevance": "Une proposition de règlement a été adoptée par la Commission européenne en juin 2026, mais elle nécessite encore l'approbation du Parlement européen et du Conseil pour devenir une législation en vigueur."
+        "publishedAt": "2026-05-12",
+        "onTopic": false,
+        "relevance": "Bien que l'accord ait été conclu en mai 2026, il n'est pas précisé si la directive ou le règlement correspondant sera adopté en juin 2026."
+      },
+      {
+        "url": "https://www.atibt.org/fr/news/13864/eudr-european-commission-publishes-its-simplification-package",
+        "title": "EUDR : la Commission européenne publie son 'paquet de simplification'",
+        "excerpt": "La Commission européenne a publié un 'paquet de simplification' pour faciliter la mise en œuvre du Règlement européen contre la déforestation et la dégradation des forêts.",
+        "supports": "neutral",
+        "publishedAt": "2026-05-13",
+        "onTopic": false,
+        "relevance": "Cette publication concerne des clarifications et des simplifications, mais ne constitue pas l'adoption d'une nouvelle directive ou d'un nouveau règlement en juin 2026."
       }
     ],
-    "explanationFr": "À ce jour, il n'existe pas de preuves confirmant l'adoption par l'Union européenne d'une nouvelle directive ou d'un nouveau règlement en juin 2026. Cependant, plusieurs initiatives législatives sont en cours et pourraient aboutir à des adoptions au cours du mois. Il est donc nécessaire de surveiller l'évolution de ces processus pour déterminer si de nouvelles législations seront effectivement adoptées en juin 2026.",
+    "explanationFr": "À ce jour, il n'existe pas de preuves confirmant l'adoption par l'Union européenne d'une nouvelle directive ou d'un nouveau règlement en juin 2026. Les informations disponibles concernent des initiatives antérieures ou des consultations en cours, mais aucune adoption formelle n'a été signalée pour le mois de juin 2026.",
     "needsReview": false
   },
   {
@@ -4340,62 +4350,42 @@
     "resolution": "pending",
     "analysisLabel": "Annonces d'aides financières de l'UE à l'Ukraine en juin 2026",
     "sources": [
-      "https://agenceurope.eu/fr/bulletin/article/13876/15/pret-a-lukraine-2026-2027-nouvelles-etapes-franchies-en-vue-dun-premier-versement-par-lue-de-91-millards-deuros-daide-en-juin",
-      "https://www.consilium.europa.eu/fr/press/press-releases/2026/04/23/council-finalises-90-billion-support-loan-to-ukraine/",
-      "https://unn.ua/en/news/the-eu-has-signed-a-memorandum-of-understanding-with-ukraine-this-paves-the-way-for-the-disbursement-of-a-tranche-from-the-euro90-billion-package-in-mid-june",
+      "https://www.boursorama.com/actualite-economique/actualites/pret-a-kiev-l-ue-va-debloquer-mi-juin-une-premiere-aide-budgetaire-de-3-2-milliards-d-euros-ca6d4ec246ef0603d3f71f0d131ea737",
       "https://www.pravda.com.ua/eng/news/2026/05/06/8033422/",
-      "https://www.eeas.europa.eu/delegations/ukraine/ukraine-facility-council-approves-seventh-payment-nearly-%E2%82%AC28-billion-kyiv_en?s=232"
+      "https://www.consilium.europa.eu/fr/press/press-releases/2025/12/11/ukraine-facility-council-approves-sixth-payment-of-around-23-billion-to-kyiv/pdf/"
     ],
-    "lastAnalysisAt": "2026-06-06T11:25:19.214Z",
+    "lastAnalysisAt": "2026-06-08T09:02:52.578Z",
     "confidence": "medium",
     "evidence": [
       {
-        "url": "https://agenceurope.eu/fr/bulletin/article/13876/15/pret-a-lukraine-2026-2027-nouvelles-etapes-franchies-en-vue-dun-premier-versement-par-lue-de-91-millards-deuros-daide-en-juin",
-        "title": "Prêt à l'Ukraine 2026-2027 - nouvelles étapes franchies en vue d'un premier versement par l'UE de 9,1 millards d'euros d'aide en juin",
-        "excerpt": "Le Parlement ukrainien a adopté, jeudi 28 mai, deux documents techniques - un Protocole d'entente (MoU) et un accord de prêt - qui ouvrent la voie au versement, courant juin, d'une première tranche d'aide dans le cadre du prêt de l'UE à l'Ukraine doté de 90 milliards d'euros pour 2026 et 2027.",
-        "supports": "neutral",
-        "publishedAt": "2026-05-29",
-        "onTopic": false,
-        "relevance": "Cet article mentionne une aide prévue en juin 2026, mais il s'agit d'une aide déjà planifiée et non d'une nouvelle annonce en juin 2026."
-      },
-      {
-        "url": "https://www.consilium.europa.eu/fr/press/press-releases/2026/04/23/council-finalises-90-billion-support-loan-to-ukraine/",
-        "title": "Le Conseil finalise l'établissement d'un prêt de soutien à l'Ukraine de 90 milliards d'euros",
-        "excerpt": "Le Conseil a adopté ce jour le dernier acte législatif clé sous-tendant l'octroi d'un prêt de l'UE de 90 milliards d'euros en faveur de l'Ukraine, convenu par le Conseil européen en décembre 2025.",
-        "supports": "neutral",
-        "publishedAt": "2026-04-23",
-        "onTopic": false,
-        "relevance": "Cet article traite d'une aide financière de l'UE à l'Ukraine, mais l'annonce date d'avril 2026, donc pas en juin 2026."
-      },
-      {
-        "url": "https://unn.ua/en/news/the-eu-has-signed-a-memorandum-of-understanding-with-ukraine-this-paves-the-way-for-the-disbursement-of-a-tranche-from-the-euro90-billion-package-in-mid-june",
-        "title": "EU signed a memorandum with Ukraine for payments from €90 billion, tranche expected in mid-June",
-        "excerpt": "The European Commission signed a memorandum of understanding with Ukraine on Thursday regarding a macro-financial assistance program, which paves the way for the disbursement of 3.2 billion euros in mid-June.",
+        "url": "https://www.boursorama.com/actualite-economique/actualites/pret-a-kiev-l-ue-va-debloquer-mi-juin-une-premiere-aide-budgetaire-de-3-2-milliards-d-euros-ca6d4ec246ef0603d3f71f0d131ea737",
+        "title": "Prêt à Kiev: l'UE va débloquer 'mi-juin' une première aide budgétaire de 3,2 milliards d'euros",
+        "excerpt": "L'Union européenne prévoit de verser 'autour de la mi-juin' une première aide budgétaire de 3,2 milliards d'euros à l'Ukraine, dans le cadre de son prêt géant de 90 milliards d'euros.",
         "supports": "neutral",
         "publishedAt": "2026-05-20",
-        "onTopic": false,
-        "relevance": "Cet article mentionne une aide prévue en juin 2026, mais il s'agit d'une aide déjà planifiée et non d'une nouvelle annonce en juin 2026."
+        "onTopic": true,
+        "relevance": "Annonce d'un versement prévu en juin 2026, mais basé sur un plan d'aide antérieur."
       },
       {
         "url": "https://www.pravda.com.ua/eng/news/2026/05/06/8033422/",
         "title": "Ukraine to receive €2.8 billion Ukraine Facility tranche in early June",
-        "excerpt": "In early June 2026, the EU is preparing the seventh tranche of financial assistance to Ukraine under the Ukraine Facility mechanism, amounting to €2.8 billion.",
+        "excerpt": "Le septième versement de l'aide financière de l'Union européenne dans le cadre du mécanisme Ukraine Facility – 2,8 milliards d'euros – sera transféré à l'Ukraine début juin 2026.",
         "supports": "neutral",
         "publishedAt": "2026-05-06",
-        "onTopic": false,
-        "relevance": "Cet article mentionne une aide prévue en juin 2026, mais il s'agit d'une aide déjà planifiée et non d'une nouvelle annonce en juin 2026."
+        "onTopic": true,
+        "relevance": "Annonce d'un versement prévu en juin 2026, mais basé sur un plan d'aide antérieur."
       },
       {
-        "url": "https://www.eeas.europa.eu/delegations/ukraine/ukraine-facility-council-approves-seventh-payment-nearly-%E2%82%AC28-billion-kyiv_en?s=232",
-        "title": "Ukraine Facility: Council approves seventh payment of nearly €2.8 billion to Kyiv",
-        "excerpt": "Ukraine is set to receive a payment of nearly €2.8 billion after the Council adopted a decision on the seventh regular disbursement of support under the EU's Ukraine Facility.",
+        "url": "https://www.consilium.europa.eu/fr/press/press-releases/2025/12/11/ukraine-facility-council-approves-sixth-payment-of-around-23-billion-to-kyiv/pdf/",
+        "title": "Ukraine Facility: le Conseil approuve le sixième versement d'environ 2,3 milliards d'euros à Kiev",
+        "excerpt": "L'Ukraine recevra bientôt environ 2,3 milliards d'euros de financement après que le Conseil a adopté une décision sur le sixième versement régulier de soutien dans le cadre du mécanisme Ukraine Facility.",
         "supports": "neutral",
-        "publishedAt": "2026-05-29",
+        "publishedAt": "2025-12-11",
         "onTopic": false,
-        "relevance": "Cet article mentionne une aide prévue en juin 2026, mais il s'agit d'une aide déjà planifiée et non d'une nouvelle annonce en juin 2026."
+        "relevance": "Annonce d'un versement en décembre 2025, hors de la période concernée."
       }
     ],
-    "explanationFr": "Plusieurs annonces récentes indiquent que l'Union européenne prévoit de verser des aides financières à l'Ukraine en juin 2026. Cependant, ces annonces concernent des aides déjà planifiées et non de nouveaux plans d'aide supplémentaires annoncés en juin 2026. Par conséquent, il n'y a pas encore de preuve concluante qu'un plan d'aide supplémentaire ait été annoncé par l'UE en juin 2026.",
+    "explanationFr": "Plusieurs annonces récentes indiquent que l'Union européenne prévoit de débloquer des aides financières supplémentaires à l'Ukraine en juin 2026. Cependant, ces annonces concernent des plans déjà établis antérieurement, et non de nouveaux plans d'aide annoncés spécifiquement en juin 2026. Par conséquent, bien que des fonds soient prévus pour être versés ce mois-ci, il n'y a pas encore d'annonce d'un plan d'aide supplémentaire en juin 2026.",
     "needsReview": false
   },
   {
@@ -4404,34 +4394,34 @@
     "category": "politique",
     "status": "open",
     "resolution": "pending",
-    "analysisLabel": "L'UE impose-t-elle de nouvelles sanctions à la Russie en juin 2026 ?",
+    "analysisLabel": "Sanctions de l'UE contre la Russie en juin 2026",
     "sources": [
-      "https://france.representation.ec.europa.eu/informations/lue-adopte-un-20e-train-de-sanctions-lencontre-de-la-russie-2026-04-23_fr?prefLang=en",
-      "https://www.consilium.europa.eu/fr/press/press-releases/2026/03/14/russia-s-war-of-aggression-against-ukraine-eu-extends-individual-listings-over-ukraine-s-territorial-integrity-for-a-further-six-months/"
+      "https://finance.ec.europa.eu/news/eu-adopts-20th-package-sanctions-against-russia-2026-04-23_en",
+      "https://www.consilium.europa.eu/fr/policies/sanctions-against-russia/timeline-sanctions-against-russia/"
     ],
-    "lastAnalysisAt": "2026-06-06T11:25:30.169Z",
+    "lastAnalysisAt": "2026-06-08T09:03:16.071Z",
     "confidence": "medium",
     "evidence": [
       {
-        "url": "https://france.representation.ec.europa.eu/informations/lue-adopte-un-20e-train-de-sanctions-lencontre-de-la-russie-2026-04-23_fr?prefLang=en",
-        "title": "L’UE adopte un 20e train de sanctions à l’encontre de la Russie",
-        "excerpt": "La Commission salue l’adoption par les États membres de l’Union européenne d’un 20e train de sanctions à l’encontre de la Russie. Ce train de mesures renforce encore la pression sur la Russie pour qu’elle engage des négociations dans des conditions acceptables pour l’Ukraine.",
+        "url": "https://finance.ec.europa.eu/news/eu-adopts-20th-package-sanctions-against-russia-2026-04-23_en",
+        "title": "EU adopts 20th package of sanctions against Russia",
+        "excerpt": "The Commission welcomes the adoption by EU Member States of the 20th package of sanctions against Russia. This package puts further pressure on Russia to engage in negotiations and do so on terms acceptable for Ukraine.",
         "supports": "neutral",
         "publishedAt": "2026-04-23",
         "onTopic": false,
-        "relevance": "Cet article concerne les sanctions adoptées en avril 2026, et non en juin 2026."
+        "relevance": "Le 20e paquet de sanctions a été adopté en avril 2026, donc hors de la période de juin 2026."
       },
       {
-        "url": "https://www.consilium.europa.eu/fr/press/press-releases/2026/03/14/russia-s-war-of-aggression-against-ukraine-eu-extends-individual-listings-over-ukraine-s-territorial-integrity-for-a-further-six-months/",
-        "title": "Guerre d'agression de la Russie contre l'Ukraine: l'UE proroge de six mois supplémentaires les inscriptions individuelles pour atteinte à l'intégrité territoriale de l'Ukraine",
-        "excerpt": "Le Conseil a décidé ce jour de proroger pour une nouvelle période de six mois, jusqu'au 15 septembre 2026, les mesures restrictives visant les responsables d'actions compromettant ou menaçant l'intégrité territoriale, la souveraineté et l'indépendance de l'Ukraine.",
+        "url": "https://www.consilium.europa.eu/fr/policies/sanctions-against-russia/timeline-sanctions-against-russia/",
+        "title": "Chronologie - Sanctions de l'UE à l'encontre de la Russie",
+        "excerpt": "Le Conseil a décidé de proroger jusqu'au 28 mai 2027 le régime de sanctions de l'UE visant les responsables de graves violations des droits de l'homme en Russie.",
         "supports": "neutral",
-        "publishedAt": "2026-03-14",
+        "publishedAt": "2026-05-26",
         "onTopic": false,
-        "relevance": "Cet article traite de la prorogation des sanctions en mars 2026, et non de nouvelles sanctions en juin 2026."
+        "relevance": "La prolongation des sanctions a été annoncée en mai 2026, donc hors de la période de juin 2026."
       }
     ],
-    "explanationFr": "Au 6 juin 2026, il n'y a pas de preuve que l'Union européenne ait imposé de nouvelles sanctions à la Russie en juin 2026. Les dernières sanctions connues ont été adoptées le 23 avril 2026, constituant le 20e train de sanctions de l'UE contre la Russie. Ces mesures incluent des restrictions dans les secteurs de l'énergie, des services financiers et du commerce, avec un accent particulier sur la lutte contre le contournement des sanctions existantes. Aucune information publique ne signale l'adoption de nouvelles sanctions en juin 2026.",
+    "explanationFr": "À ce jour, le 8 juin 2026, l'Union européenne n'a pas annoncé de nouvelles sanctions contre la Russie pour le mois de juin 2026. Les dernières mesures significatives incluent le 20e paquet de sanctions adopté le 23 avril 2026, ciblant divers secteurs tels que l'énergie, les services financiers et le commerce. De plus, le 26 mai 2026, l'UE a prolongé jusqu'au 28 mai 2027 les sanctions liées aux violations des droits de l'homme en Russie. Aucune information récente ne signale l'imposition de nouvelles sanctions en juin 2026.",
     "needsReview": false
   },
   {
@@ -4443,41 +4433,31 @@
     "analysisLabel": "La cote de popularité de Trump est inférieure à 50% en juin 2026 — marché ouvert jusqu'au 2026-06-30 (suivi quotidien)",
     "sources": [
       "https://www.thedailybeast.com/trumps-approval-rating-tanks-to-a-historic-new-low/",
-      "https://www.nasdaq.com/press-release/may-harvard-caps-harris-poll-trump-approval-steady-43-increasing-support-iran-2026-06",
-      "https://www.tbsnews.net/worldbiz/usa/trump-approval-sinks-new-low-war-iran-drives-cost-living-concerns-1425501"
+      "https://www.nasdaq.com/press-release/may-harvard-caps-harris-poll-trump-approval-steady-43-increasing-support-iran-2026-06"
     ],
-    "lastAnalysisAt": "2026-06-06T11:25:41.337Z",
+    "lastAnalysisAt": "2026-06-08T09:03:27.828Z",
     "confidence": "high",
     "evidence": [
       {
         "url": "https://www.thedailybeast.com/trumps-approval-rating-tanks-to-a-historic-new-low/",
         "title": "Trump's Approval Rating Tanks to a Historic New Low",
-        "excerpt": "According to a YouGov/Economist poll conducted from May 29 to June 1, only 35% of Americans approve of Trump’s performance, while 60% disapprove, yielding a net approval rating of -25 — the lowest since this survey began in 2009.",
+        "excerpt": "President Donald Trump’s approval rating has dropped to a historic low amid growing public discontent over his handling of the ongoing war with Iran and rising economic challenges. According to a YouGov/Economist poll conducted from May 29 to June 1, only 35% of Americans approve of Trump’s performance, while 60% disapprove, yielding a net approval rating of -25 — the lowest since this survey began in 2009.",
         "supports": "no",
         "publishedAt": "2026-06-04",
         "onTopic": true,
-        "relevance": "Ce sondage national montre que la cote de popularité de Trump est bien en dessous de 50% en juin 2026."
+        "relevance": "Ce sondage national montre que la cote de popularité de Trump est de 35%, bien en dessous de 50%."
       },
       {
         "url": "https://www.nasdaq.com/press-release/may-harvard-caps-harris-poll-trump-approval-steady-43-increasing-support-iran-2026-06",
         "title": "May Harvard CAPS / Harris Poll: Trump Approval Steady at 43% With Increasing Support on Iran",
-        "excerpt": "President Donald Trump's approval rating is at 43%.",
+        "excerpt": "President Donald Trump's approval rating is at 43%. His job approval is highest on immigration (49%) and fighting crime (48%); and lowest on handling inflation (35%) and tariffs and trade (37%).",
         "supports": "no",
         "publishedAt": "2026-06-02",
         "onTopic": true,
-        "relevance": "Ce sondage national indique que la cote de popularité de Trump est de 43% en juin 2026, en dessous de 50%."
-      },
-      {
-        "url": "https://www.tbsnews.net/worldbiz/usa/trump-approval-sinks-new-low-war-iran-drives-cost-living-concerns-1425501",
-        "title": "Trump approval sinks to new low as war with Iran drives cost-of-living concerns",
-        "excerpt": "The four-day poll completed on Monday showed 34% of Americans approve of Trump's performance in the White House, down from 36% in a prior Reuters/Ipsos survey.",
-        "supports": "no",
-        "publishedAt": "2026-06-03",
-        "onTopic": true,
-        "relevance": "Ce sondage national montre que la cote de popularité de Trump est de 34% en juin 2026, bien en dessous de 50%."
+        "relevance": "Ce sondage national indique que la cote de popularité de Trump est de 43%, en dessous de 50%."
       }
     ],
-    "explanationFr": "Les sondages nationaux récents indiquent que la cote de popularité du président Trump est bien en dessous de 50% en juin 2026, avec des taux d'approbation variant entre 34% et 43%.",
+    "explanationFr": "Les sondages nationaux les plus récents indiquent que la cote de popularité du président Donald Trump est bien en dessous de 50% en juin 2026. Un sondage YouGov/Economist réalisé du 29 mai au 1er juin 2026 montre un taux d'approbation de 35%, tandis qu'un sondage Harvard CAPS/Harris publié le 2 juin 2026 indique un taux d'approbation de 43%. Ces données suggèrent que la cote de popularité de Trump ne dépasse pas 50% en juin 2026.",
     "needsReview": false
   },
   {
@@ -4486,24 +4466,44 @@
     "category": "politique",
     "status": "open",
     "resolution": "pending",
-    "analysisLabel": "Proposition de loi de la NFP en juin 2026",
+    "analysisLabel": "Dépôt de proposition de loi par la NFP en juin 2026",
     "sources": [
-      "https://www.assemblee-nationale.fr/dyn/17/organes/commissions-permanentes/finances/actualites/nationalisation-d-arcelormittal-france-examen-en-deuxieme-lecture-de-la-proposition-de-loi"
+      "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054199673",
+      "https://www.vie-publique.fr/dossierlegislatif/JORFDOLE000054196644",
+      "https://www.assemblee-nationale.fr/dyn/actualites-accueil-hub/semaine-de-l-assemblee-examen-de-plusieurs-propositions-de-loi"
     ],
-    "lastAnalysisAt": "2026-06-06T11:25:51.478Z",
+    "lastAnalysisAt": "2026-06-08T09:03:37.254Z",
     "confidence": "medium",
     "evidence": [
       {
-        "url": "https://www.assemblee-nationale.fr/dyn/17/organes/commissions-permanentes/finances/actualites/nationalisation-d-arcelormittal-france-examen-en-deuxieme-lecture-de-la-proposition-de-loi",
-        "title": "Nationalisation d'ArcelorMittal France : examen, en deuxième lecture, de la proposition de loi",
-        "excerpt": "Mercredi 3 juin 2026 à 14h30, la commission des finances examine la proposition de loi, rejetée par le Sénat, en deuxième lecture, visant à la nationalisation d'ArcelorMittal France afin de préserver la souveraineté industrielle de la France. Rapporteure : Aurélie Trouvé (LFI - NFP - Seine-Saint-Denis).",
+        "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054199673",
+        "title": "LOI n° 2026-442 du 4 juin 2026 visant à étendre à toutes les communes la compensation financière prévue pour les communes de plus de 3 500 habitants pour l'exercice de l'ensemble des compétences du service public de la petite enfance",
+        "excerpt": "L'Assemblée nationale et le Sénat ont adopté, Le Président de la République promulgue la loi dont la teneur suit...",
+        "supports": "neutral",
+        "publishedAt": "2026-06-04",
+        "onTopic": false,
+        "relevance": "La source mentionne une loi promulguée en juin 2026, mais ne précise pas l'affiliation politique des auteurs."
+      },
+      {
+        "url": "https://www.vie-publique.fr/dossierlegislatif/JORFDOLE000054196644",
+        "title": "Proposition de loi visant à garantir l'interdiction de la vaisselle en plastique dans la restauration collective accueillant du jeune public et liée à la petite enfance",
+        "excerpt": "Dernière modification : 04/06/2026...",
+        "supports": "neutral",
+        "publishedAt": "2026-06-04",
+        "onTopic": false,
+        "relevance": "La source mentionne une proposition de loi récente, mais sans préciser l'affiliation politique des auteurs."
+      },
+      {
+        "url": "https://www.assemblee-nationale.fr/dyn/actualites-accueil-hub/semaine-de-l-assemblee-examen-de-plusieurs-propositions-de-loi",
+        "title": "Semaine de l'Assemblée : examen de plusieurs propositions de loi",
+        "excerpt": "Du lundi 1er au jeudi 4 juin 2026, l'Assemblée nationale examine plusieurs propositions de loi et une proposition de résolution...",
         "supports": "neutral",
         "publishedAt": "2026-06-03",
-        "onTopic": true,
-        "relevance": "La proposition de loi est portée par une députée de la NFP, mais il n'est pas précisé si elle représente une initiative officielle de l'ensemble de la NFP."
+        "onTopic": false,
+        "relevance": "La source mentionne l'examen de plusieurs propositions de loi en juin 2026, mais ne précise pas l'affiliation politique des auteurs."
       }
     ],
-    "explanationFr": "Au 6 juin 2026, une proposition de loi visant à la nationalisation d'ArcelorMittal France, portée par la députée Aurélie Trouvé de La France Insoumise (LFI), membre de la Nouvelle Front populaire (NFP), a été examinée en deuxième lecture par la commission des finances le 3 juin 2026. Cette proposition est inscrite à l'ordre du jour de la séance publique du 11 juin 2026. Bien que cette initiative soit portée par une députée de la NFP, il n'est pas explicitement indiqué qu'elle représente une proposition de loi officielle de l'ensemble de la NFP. Par conséquent, il n'est pas certain que la NFP ait déposé une proposition de loi en juin 2026.",
+    "explanationFr": "À ce jour, aucune information publique ne confirme que la Nouvelle Front Populaire (NFP) a déposé une proposition de loi en juin 2026. Les sources disponibles mentionnent des propositions de loi récentes, mais sans préciser l'affiliation politique des auteurs. Par conséquent, il est impossible d'affirmer avec certitude si la NFP a déposé une proposition de loi ce mois-ci.",
     "needsReview": false
   },
   {
@@ -4512,16 +4512,45 @@
     "category": "politique",
     "status": "open",
     "resolution": "pending",
-    "analysisLabel": "Popularité Macron >35% en juin 2026",
+    "analysisLabel": "Popularité de Macron en juin 2026",
     "sources": [
-      "https://www.boursorama.com/actualite-economique/actualites/la-cote-de-confiance-d-emmanuel-macron-remonte-fortement-et-atteint-son-niveau-d-il-y-a-un-an-selon-un-sondage-b39622f9b248a3338a6f2be9705b5d17",
-      "https://www.huffingtonpost.fr/politique/article/la-popularite-d-emmanuel-macron-connait-un-rebond-spectaculaire-dans-notre-sondage-exclusif_218662.html"
+      "https://www.epocinfo.fr/popularites.php?f=PR&p=Macron",
+      "https://www.parlons-politique.fr/actualite-nationale/la-confiance-macron-remonte-mais-la-defiance-reste-massive-ce-que-revele-vraiment-le-dernier-barometre-politique_20576/",
+      "https://www.boursorama.com/actualite-economique/actualites/la-cote-de-confiance-d-emmanuel-macron-remonte-fortement-et-atteint-son-niveau-d-il-y-a-un-an-selon-un-sondage-b39622f9b248a3338a6f2be9705b5d17"
     ],
-    "lastAnalysisAt": "2026-06-06T11:26:03.350Z",
-    "confidence": "low",
-    "evidence": [],
-    "explanationFr": "Aucune preuve actuelle ne confirme ou infirme que la popularité de Macron dépasse 35% dans un sondage en juin 2026. Les recherches n'ont pas révélé de sondages récents pertinents. La situation reste donc incertaine et nécessite une surveillance continue pour obtenir des données à jour.",
-    "needsReview": true
+    "lastAnalysisAt": "2026-06-08T09:04:05.248Z",
+    "confidence": "medium",
+    "evidence": [
+      {
+        "url": "https://www.epocinfo.fr/popularites.php?f=PR&p=Macron",
+        "title": "Popularités - EPOC Info",
+        "excerpt": "Selon les derniers sondages de juin 2026, la popularité d'Emmanuel Macron est de 18% (YouGov), 19% (Verian) et 26% (Elabe).",
+        "supports": "no",
+        "publishedAt": "2026-06-07",
+        "onTopic": true,
+        "relevance": "Les données de juin 2026 montrent une popularité maximale de 26%, inférieure à 35%."
+      },
+      {
+        "url": "https://www.parlons-politique.fr/actualite-nationale/la-confiance-macron-remonte-mais-la-defiance-reste-massive-ce-que-revele-vraiment-le-dernier-barometre-politique_20576/",
+        "title": "La confiance Macron remonte, mais la défiance reste massive : ce que révèle vraiment le dernier baromètre politique",
+        "excerpt": "Emmanuel Macron atteint 26% de confiance début juin, son meilleur score depuis un an.",
+        "supports": "no",
+        "publishedAt": "2026-06-05",
+        "onTopic": true,
+        "relevance": "Le sondage de début juin 2026 indique une confiance de 26%, en dessous de 35%."
+      },
+      {
+        "url": "https://www.boursorama.com/actualite-economique/actualites/la-cote-de-confiance-d-emmanuel-macron-remonte-fortement-et-atteint-son-niveau-d-il-y-a-un-an-selon-un-sondage-b39622f9b248a3338a6f2be9705b5d17",
+        "title": "La cote de confiance d'Emmanuel Macron remonte fortement, et atteint son niveau d'il y a un an, selon un sondage",
+        "excerpt": "26% des Français font confiance à Emmanuel Macron pour régler les problèmes du pays, selon un sondage Elabe publié le 4 juin.",
+        "supports": "no",
+        "publishedAt": "2026-06-04",
+        "onTopic": true,
+        "relevance": "Le sondage Elabe du 4 juin 2026 montre une confiance de 26%, inférieure à 35%."
+      }
+    ],
+    "explanationFr": "Les sondages récents de juin 2026 indiquent que la popularité d'Emmanuel Macron est en hausse, atteignant 26% selon plusieurs instituts. Cependant, aucun sondage ne rapporte une popularité supérieure à 35% pour le moment.",
+    "needsReview": false
   },
   {
     "id": "01b7a6e747af33c8",
@@ -4565,34 +4594,44 @@
     "category": "politique",
     "status": "open",
     "resolution": "pending",
-    "analysisLabel": "Adoption d'une loi économique majeure par le Congrès américain en juin 2026",
+    "analysisLabel": "Adoption potentielle de la loi CLARITY en juin 2026",
     "sources": [
-      "https://transportation.house.gov/surface-transportation-reauthorization/",
-      "https://www.clubic.com/actualite-615526-l-ia-provoque-un-bras-de-fer-inedit-entre-washington-et-les-etats-americains.html"
+      "https://coinpaprika.com/fr/news/clarity-act-joins-senate-floor-calendar/",
+      "https://www.whitehouse.gov/fact-sheets/2026/06/fact-sheet-president-donald-j-trump-strengthens-customs-enforcement/",
+      "https://www.presidency.ucsb.edu/documents/proclamation-11032-further-adjusting-the-tariff-regimes-for-imports-aluminum-steel-and"
     ],
-    "lastAnalysisAt": "2026-06-06T11:26:31.960Z",
+    "lastAnalysisAt": "2026-06-08T09:04:14.117Z",
     "confidence": "medium",
     "evidence": [
       {
-        "url": "https://transportation.house.gov/surface-transportation-reauthorization/",
-        "title": "Surface Transportation Reauthorization",
-        "excerpt": "Le 22 mai 2026, le Comité a approuvé le BUILD America 250 Act, un projet de loi bipartisan de réautorisation des transports de surface sur cinq ans.",
+        "url": "https://coinpaprika.com/fr/news/clarity-act-joins-senate-floor-calendar/",
+        "title": "La loi CLARITY rejoint le calendrier du Sénat après le vote du comité bancaire",
+        "excerpt": "La loi CLARITY a rejoint le calendrier législatif du Sénat américain le 01 juin 2026, la rendant éligible à un vote complet après un vote du comité bancaire de 15-9 en mai.",
         "supports": "neutral",
-        "publishedAt": "2026-05-22",
+        "publishedAt": "2026-06-03",
         "onTopic": true,
-        "relevance": "Le BUILD America 250 Act est un projet de loi économique majeur en cours d'examen, mais il n'a pas encore été adopté."
+        "relevance": "La loi CLARITY est une législation économique majeure en attente d'adoption par le Sénat en juin 2026."
       },
       {
-        "url": "https://www.clubic.com/actualite-615526-l-ia-provoque-un-bras-de-fer-inedit-entre-washington-et-les-etats-americains.html",
-        "title": "L'IA provoque un bras de fer inédit entre Washington et les États américains",
-        "excerpt": "Un projet de loi bipartisan déposé le 4 juin 2026 au Congrès américain prévoit de bloquer pendant trois ans toute réglementation étatique sur le développement des modèles d’IA.",
+        "url": "https://www.whitehouse.gov/fact-sheets/2026/06/fact-sheet-president-donald-j-trump-strengthens-customs-enforcement/",
+        "title": "Fact Sheet: President Donald J. Trump Strengthens Customs Enforcement",
+        "excerpt": "Le président Donald J. Trump a signé un décret exécutif visant à renforcer l'application des lois douanières américaines par une réforme complète.",
         "supports": "neutral",
-        "publishedAt": "2026-06-05",
-        "onTopic": true,
-        "relevance": "Un projet de loi économique majeur concernant la réglementation de l'IA a été déposé, mais il n'a pas encore été adopté."
+        "publishedAt": "2026-06-03",
+        "onTopic": false,
+        "relevance": "Bien que lié à des questions économiques, ce décret exécutif ne constitue pas une loi adoptée par le Congrès."
+      },
+      {
+        "url": "https://www.presidency.ucsb.edu/documents/proclamation-11032-further-adjusting-the-tariff-regimes-for-imports-aluminum-steel-and",
+        "title": "Proclamation 11032—Further Adjusting the Tariff Regimes for Imports of Aluminum, Steel, and Copper into the United States",
+        "excerpt": "Le président a ajusté les régimes tarifaires pour les importations d'aluminium, d'acier et de cuivre aux États-Unis.",
+        "supports": "neutral",
+        "publishedAt": "2026-06-01",
+        "onTopic": false,
+        "relevance": "Cette proclamation présidentielle concerne des ajustements tarifaires et non l'adoption d'une loi économique majeure par le Congrès."
       }
     ],
-    "explanationFr": "Plusieurs projets de loi économiques sont en cours d'examen au Congrès américain en juin 2026, notamment le BUILD America 250 Act et des réformes sur la réglementation de l'IA. Cependant, aucune de ces lois n'a encore été adoptée. Le statut reste donc 'pending' en attendant des développements ultérieurs.",
+    "explanationFr": "La loi CLARITY, une législation économique majeure, a été inscrite au calendrier législatif du Sénat américain le 1er juin 2026, après un vote favorable du comité bancaire en mai. Cette inscription permet un débat complet et un vote final au Sénat. Cependant, au 8 juin 2026, le Sénat n'a pas encore adopté cette loi. Aucune autre législation économique majeure n'a été adoptée par le Congrès en juin 2026 jusqu'à présent. Par conséquent, la résolution de ce marché reste en attente, en fonction des développements législatifs à venir ce mois-ci.",
     "needsReview": false
   },
   {
@@ -4601,13 +4640,12 @@
     "category": "politique",
     "status": "open",
     "resolution": "pending",
-    "analysisLabel": "Le Conseil européen se réunit les 18 et 19 juin 2026",
+    "analysisLabel": "Le Conseil européen se réunit en juin 2026",
     "sources": [
       "https://www.consilium.europa.eu/fr/meetings/european-council/2026/06/18-19/",
-      "https://www.consilium.europa.eu/fr/press/press-releases/2026/05/04/media-advisory-accreditation-for-the-european-council-meeting-of-18-and-19-june-2026/pdf/",
-      "https://www.consilium.europa.eu/fr/meetings/calendar/?Entity=122110&Entity=122132&Entity=122158"
+      "https://www.consilium.europa.eu/fr/press/press-releases/2026/05/04/media-advisory-accreditation-for-the-european-council-meeting-of-18-and-19-june-2026/pdf/"
     ],
-    "lastAnalysisAt": "2026-06-06T11:26:45.743Z",
+    "lastAnalysisAt": "2026-06-08T09:04:21.607Z",
     "confidence": "medium",
     "evidence": [
       {
@@ -4622,23 +4660,14 @@
       {
         "url": "https://www.consilium.europa.eu/fr/press/press-releases/2026/05/04/media-advisory-accreditation-for-the-european-council-meeting-of-18-and-19-june-2026/pdf/",
         "title": "Informations destinées aux médias - Accréditation pour la réunion du Conseil européen des 18 et 19 juin 2026",
-        "excerpt": "Communiqué de presse concernant l'accréditation des médias pour la réunion du Conseil européen des 18 et 19 juin 2026.",
+        "excerpt": "La réunion du Conseil européen se tiendra les 18 et 19 juin 2026 dans le bâtiment Europa à Bruxelles.",
         "supports": "yes",
         "publishedAt": "2026-05-04",
         "onTopic": true,
-        "relevance": "Confirmation officielle de la réunion du Conseil européen en juin 2026."
-      },
-      {
-        "url": "https://www.consilium.europa.eu/fr/meetings/calendar/?Entity=122110&Entity=122132&Entity=122158",
-        "title": "Calendrier des réunions - Consilium",
-        "excerpt": "Calendrier officiel mentionnant la réunion du Conseil européen les 18 et 19 juin 2026.",
-        "supports": "yes",
-        "publishedAt": "2026-05-31",
-        "onTopic": true,
-        "relevance": "Le calendrier officiel confirme la réunion du Conseil européen en juin 2026."
+        "relevance": "Détails pratiques et confirmation de la tenue de la réunion du Conseil européen en juin 2026."
       }
     ],
-    "explanationFr": "Le Conseil européen a programmé une réunion les 18 et 19 juin 2026 à Bruxelles, comme indiqué sur le site officiel du Conseil. Un communiqué de presse du 4 mai 2026 confirme cette réunion et fournit des informations sur l'accréditation des médias. Le calendrier des réunions du Conseil européen mentionne également cette réunion. Ces sources officielles confirment que le Conseil européen se réunira en juin 2026.",
+    "explanationFr": "Le Conseil européen a programmé une réunion les 18 et 19 juin 2026 à Bruxelles, confirmée par des sources officielles.",
     "needsReview": false
   },
   {
@@ -4652,29 +4681,29 @@
       "https://www.economie.gouv.fr/g7-bercy-2026",
       "https://www.admin.ch/fr/newnsb/x--MtMbDy9A3xMcglQrdR"
     ],
-    "lastAnalysisAt": "2026-06-06T11:26:56.288Z",
+    "lastAnalysisAt": "2026-06-08T09:04:28.506Z",
     "confidence": "medium",
     "evidence": [
       {
         "url": "https://www.economie.gouv.fr/g7-bercy-2026",
         "title": "Le G7 à Bercy",
-        "excerpt": "En 2026, c’est la France qui assurera cette présidence, et accueillera le Sommet des chefs d'État du G7 à Évian du 15 au 17 juin 2026.",
+        "excerpt": "Le sommet des chefs d'État du G7 à Évian est prévu du 15 au 17 juin 2026.",
         "supports": "neutral",
-        "publishedAt": "2026-05-29",
+        "publishedAt": "2026-06-01",
         "onTopic": true,
-        "relevance": "Confirme la tenue du sommet du G7 en juin 2026, période durant laquelle un communiqué sur la Russie pourrait être adopté."
+        "relevance": "Le sommet du G7 en juin 2026 pourrait être l'occasion d'adopter un communiqué commun sur la Russie."
       },
       {
         "url": "https://www.admin.ch/fr/newnsb/x--MtMbDy9A3xMcglQrdR",
         "title": "G7 à Évian : le Conseil fédéral approuve un document de coopération militaire franco-suisse",
-        "excerpt": "Pour assurer la sécurité du sommet du G7, organisé par la France du 15 au 17 juin 2026 à Évian, le Département fédéral de la défense, de la protection de la population et des sports (DDPS) et le Ministère français des Armées et des Anciens combattants ont élaboré un Document conjoint de procédure (DCP).",
+        "excerpt": "Le Conseil fédéral suisse a approuvé un document de coopération militaire avec la France pour assurer la sécurité du sommet du G7 à Évian du 15 au 17 juin 2026.",
         "supports": "neutral",
         "publishedAt": "2026-06-05",
         "onTopic": true,
-        "relevance": "Indique que des préparatifs sont en cours pour le sommet du G7 en juin 2026, où un communiqué sur la Russie pourrait être adopté."
+        "relevance": "La préparation du sommet du G7 en juin 2026 est en cours, mais aucune mention spécifique d'un communiqué sur la Russie n'est faite."
       }
     ],
-    "explanationFr": "À ce jour, le 6 juin 2026, aucun communiqué commun du G7 concernant la Russie n'a été publié en juin 2026. Cependant, le sommet des chefs d'État et de gouvernement du G7 est prévu du 15 au 17 juin 2026 à Évian, en France. Il est donc possible qu'un tel communiqué soit adopté lors de cet événement.",
+    "explanationFr": "À ce jour, il n'existe pas de preuve confirmant l'adoption d'un communiqué commun du G7 sur la Russie en juin 2026. Le sommet des chefs d'État du G7 est prévu du 15 au 17 juin 2026 à Évian, et il est possible qu'un tel communiqué soit publié à cette occasion. Cependant, en l'absence d'informations spécifiques, la résolution de ce marché reste en attente.",
     "needsReview": false
   },
   {
@@ -4719,35 +4748,25 @@
     "category": "politique",
     "status": "open",
     "resolution": "pending",
-    "analysisLabel": "Réforme sociale ou économique annoncée en juin 2026",
+    "analysisLabel": "1 preuve decisive — en attente d'une seconde source independante",
     "sources": [
-      "https://cms.law/fr/fra/legal-updates/Simplification-de-la-vie-economique-ce-qui-change-en-matiere-sociale",
-      "https://www.info.gouv.fr/toute-l-actualite/affaires-sociales-toute-lactualite-info-gouv-fr"
+      "https://cms.law/fr/fra/legal-updates/Simplification-de-la-vie-economique-ce-qui-change-en-matiere-sociale"
     ],
-    "lastAnalysisAt": "2026-06-06T11:27:20.649Z",
+    "lastAnalysisAt": "2026-06-08T09:04:35.252Z",
     "confidence": "medium",
     "evidence": [
       {
         "url": "https://cms.law/fr/fra/legal-updates/Simplification-de-la-vie-economique-ce-qui-change-en-matiere-sociale",
         "title": "Simplification de la vie économique : ce qui change en matière sociale",
-        "excerpt": "La loi n° 2026-403 du 26 mai 2026 de simplification de la vie économique a été publiée au Journal officiel du 27 mai 2026.",
-        "supports": "neutral",
+        "excerpt": "Après sa validation par le Conseil constitutionnel le 21 mai 2026, la loi de simplification de la vie économique a été publiée au Journal officiel le 27 mai 2026. Ce texte comporte plusieurs mesures intéressant directement le droit social et les pratiques RH, afin d’alléger certaines formalités administratives pesant sur les employeurs.",
+        "supports": "yes",
         "publishedAt": "2026-06-03",
-        "onTopic": false,
-        "relevance": "La loi a été publiée fin mai 2026, donc avant le mois de juin, et ne constitue pas une annonce en juin 2026."
-      },
-      {
-        "url": "https://www.info.gouv.fr/toute-l-actualite/affaires-sociales-toute-lactualite-info-gouv-fr",
-        "title": "Actualités Affaires sociales",
-        "excerpt": "Suivez l’actualité officielle des affaires sociales et des politiques publiques en France, réformes et dispositifs d’aide.",
-        "supports": "neutral",
-        "publishedAt": "2026-06-06",
-        "onTopic": false,
-        "relevance": "Aucune annonce spécifique d'une réforme sociale ou économique en juin 2026 n'est mentionnée dans les actualités récentes."
+        "onTopic": true,
+        "relevance": "La publication en juin 2026 de la loi de simplification de la vie économique inclut des mesures sociales, répondant ainsi à la question du marché."
       }
     ],
-    "explanationFr": "À ce jour, aucune annonce officielle d'une réforme sociale ou économique par le gouvernement français en juin 2026 n'a été identifiée. Les informations disponibles concernent des mesures antérieures ou des publications récentes sans lien direct avec une réforme annoncée en juin 2026. Il est possible que des annonces soient faites ultérieurement dans le mois.",
-    "needsReview": false
+    "explanationFr": "Au 8 juin 2026, le gouvernement français a annoncé plusieurs réformes sociales et économiques. Le 3 juin 2026, la loi de simplification de la vie économique a été publiée, visant à alléger les contraintes administratives pour les entreprises. Bien que cette loi ait été adoptée en mai, sa publication et les détails concernant les mesures sociales ont été communiqués en juin. Cependant, aucune autre annonce de réforme sociale ou économique spécifique n'a été identifiée pour le mois de juin 2026. Par conséquent, la résolution du marché reste en attente de nouvelles informations.",
+    "needsReview": true
   },
   {
     "id": "4d00309d0b024139",
@@ -4757,42 +4776,32 @@
     "resolution": "pending",
     "analysisLabel": "Vote de résolutions importantes en juin 2026",
     "sources": [
-      "https://www.strasbourg-europe.eu/events/15-au-18-juin-2026-sessions-parlementaires-parlement-europeen-strasbourg/",
-      "https://www.agra.fr/articles/ngt-le-vote-du-parlement-europeen-finalement-reporte-juin",
-      "https://agenceurope.eu/fr/bulletin/article/13879/4/les-negociations-interinstitutionnelles-sur-le-reglement-retours-aboutissent-sur-fond-de-fracture-politique"
+      "https://www.europarl.europa.eu/plenary/fr/agendas.html",
+      "https://www.europarl.europa.eu/plenary/fr/votes.html"
     ],
-    "lastAnalysisAt": "2026-06-06T11:27:31.063Z",
+    "lastAnalysisAt": "2026-06-08T09:04:42.427Z",
     "confidence": "medium",
     "evidence": [
       {
-        "url": "https://www.strasbourg-europe.eu/events/15-au-18-juin-2026-sessions-parlementaires-parlement-europeen-strasbourg/",
-        "title": "15 au 18 juin 2026 : sessions parlementaires Parlement européen Strasbourg",
-        "excerpt": "Les députés européens se réunissent en plénière au Parlement européen à Strasbourg du 15 au 18 juin 2026.",
+        "url": "https://www.europarl.europa.eu/plenary/fr/agendas.html",
+        "title": "Ordres du jour | Plénière | Parlement européen",
+        "excerpt": "Le Parlement européen tiendra une session plénière du 15 au 18 juin 2026 à Strasbourg. L'ordre du jour détaillé n'est pas encore disponible.",
         "supports": "neutral",
-        "publishedAt": "2026-06-02",
+        "publishedAt": "2026-06-08",
         "onTopic": true,
-        "relevance": "Confirme la tenue d'une session plénière en juin 2026."
+        "relevance": "Confirme la tenue d'une session plénière en juin 2026, mais sans détails sur les résolutions prévues."
       },
       {
-        "url": "https://www.agra.fr/articles/ngt-le-vote-du-parlement-europeen-finalement-reporte-juin",
-        "title": "NGT : le vote du Parlement européen finalement reporté à juin",
-        "excerpt": "Le vote initialement prévu le 5 mai en commission de l’Environnement du Parlement pour valider définitivement l’accord conclu fin 2025 entre les États membres et le Parlement européen sur les nouvelles techniques de sélection génomiques a été reporté, au dernier moment, au 2 juin.",
+        "url": "https://www.europarl.europa.eu/plenary/fr/votes.html",
+        "title": "Ordre et listes de votes | Votes | Plénière | Parlement européen",
+        "excerpt": "Les listes de votes pour la session plénière du 15 au 18 juin 2026 ne sont pas encore disponibles.",
         "supports": "neutral",
-        "publishedAt": "2026-05-07",
+        "publishedAt": "2026-06-08",
         "onTopic": true,
-        "relevance": "Indique qu'un vote important sur les nouvelles techniques de sélection génomiques est prévu en juin 2026."
-      },
-      {
-        "url": "https://agenceurope.eu/fr/bulletin/article/13879/4/les-negociations-interinstitutionnelles-sur-le-reglement-retours-aboutissent-sur-fond-de-fracture-politique",
-        "title": "Les négociations interinstitutionnelles sur le règlement 'Retours' aboutissent sur fond de fracture politique",
-        "excerpt": "Les négociations interinstitutionnelles entre le Conseil de l'UE et le Parlement européen ('trilogues') sur la refonte du règlement relatif au retour de migrants irréguliers ont enfin abouti.",
-        "supports": "neutral",
-        "publishedAt": "2026-06-03",
-        "onTopic": true,
-        "relevance": "Signale qu'un accord a été trouvé sur le règlement 'Retours', potentiellement soumis au vote en juin 2026."
+        "relevance": "Indique que les détails des votes prévus en juin 2026 ne sont pas encore publiés."
       }
     ],
-    "explanationFr": "Le Parlement européen a prévu une session plénière du 15 au 18 juin 2026, au cours de laquelle des votes sur des résolutions importantes sont attendus. Cependant, en date du 6 juin 2026, aucune résolution spécifique n'a encore été adoptée ce mois-ci.",
+    "explanationFr": "Le Parlement européen tiendra une session plénière du 15 au 18 juin 2026 à Strasbourg. Bien que l'ordre du jour détaillé ne soit pas encore disponible, il est probable que des résolutions importantes y soient votées, comme c'est souvent le cas lors de ces sessions. Cependant, en l'absence d'informations spécifiques sur les résolutions prévues, il est prématuré de conclure avec certitude.",
     "needsReview": false
   },
   {
@@ -4801,35 +4810,35 @@
     "category": "politique",
     "status": "open",
     "resolution": "pending",
-    "analysisLabel": "Démission du Premier ministre français en juin 2026",
+    "analysisLabel": "1 preuve decisive — en attente d'une seconde source independante",
     "sources": [
-      "https://www.leparisien.fr/politique/il-flippe-un-peu-budget-presidentielle-sebastien-lecornu-doit-il-craindre-la-censure-01-06-2026-ZM56KVBPL5H5HFGVHJVAMB65P4.php",
-      "https://www.info.gouv.fr/conseil-des-ministres/compte-rendu-du-conseil-des-ministres-du-03-06-2026"
+      "https://www.info.gouv.fr/personnalite/sebastien-lecornu",
+      "https://www.lagazettefrance.fr/article/programmation-militaire-lecornu-appelle-le-parlement-a-trouver-une-solution-apres-un-vote-inattendu-au-senat"
     ],
-    "lastAnalysisAt": "2026-06-06T11:27:45.838Z",
+    "lastAnalysisAt": "2026-06-08T09:04:50.288Z",
     "confidence": "medium",
     "evidence": [
       {
-        "url": "https://www.leparisien.fr/politique/il-flippe-un-peu-budget-presidentielle-sebastien-lecornu-doit-il-craindre-la-censure-01-06-2026-ZM56KVBPL5H5HFGVHJVAMB65P4.php",
-        "title": "« Il flippe un peu » : budget, présidentielle… Sébastien Lecornu doit-il craindre la censure ?",
-        "excerpt": "Le 7 juin, Sébastien Lecornu deviendra officiellement le Premier ministre qui aura tenu le plus longtemps à Matignon depuis la dissolution en 2024.",
-        "supports": "neutral",
-        "publishedAt": "2026-06-01",
+        "url": "https://www.info.gouv.fr/personnalite/sebastien-lecornu",
+        "title": "Sébastien Lecornu - Premier ministre",
+        "excerpt": "Sébastien Lecornu est le Premier ministre français en fonction depuis le 26 février 2026.",
+        "supports": "yes",
+        "publishedAt": "2026-06-08",
         "onTopic": true,
-        "relevance": "L'article évoque la possibilité d'une motion de censure contre le Premier ministre en juin 2026, suggérant une instabilité politique."
+        "relevance": "Confirme que Sébastien Lecornu est actuellement en poste."
       },
       {
-        "url": "https://www.info.gouv.fr/conseil-des-ministres/compte-rendu-du-conseil-des-ministres-du-03-06-2026",
-        "title": "Conseil des ministres du 3 juin 2026",
-        "excerpt": "Le Premier ministre a participé au Conseil des ministres du 3 juin 2026, abordant des sujets tels que la responsabilité parentale et les dispositifs de forces de l'ordre.",
+        "url": "https://www.lagazettefrance.fr/article/programmation-militaire-lecornu-appelle-le-parlement-a-trouver-une-solution-apres-un-vote-inattendu-au-senat",
+        "title": "Programmation militaire: Lecornu appelle le Parlement à 'trouver une solution' après un vote inattendu au Sénat",
+        "excerpt": "Le Premier ministre Sébastien Lecornu a reconnu faire face à un 'vrai problème' après un vote inattendu au Sénat, qui a supprimé une rallonge budgétaire allouée aux armées d'ici 2030.",
         "supports": "neutral",
         "publishedAt": "2026-06-03",
         "onTopic": true,
-        "relevance": "La participation du Premier ministre au Conseil des ministres du 3 juin 2026 indique qu'il était en fonction à cette date."
+        "relevance": "Indique des tensions parlementaires récentes pouvant affecter la stabilité du gouvernement."
       }
     ],
-    "explanationFr": "Le 1er juin 2026, des articles de presse ont évoqué la possibilité d'une motion de censure contre le Premier ministre Sébastien Lecornu, suggérant une instabilité politique. ([leparisien.fr](https://www.leparisien.fr/politique/il-flippe-un-peu-budget-presidentielle-sebastien-lecornu-doit-il-craindre-la-censure-01-06-2026-ZM56KVBPL5H5HFGVHJVAMB65P4.php?utm_source=openai)) Cependant, aucune information confirmant sa démission ou son maintien en poste jusqu'au 30 juin 2026 n'est disponible à ce jour.",
-    "needsReview": false
+    "explanationFr": "Au 8 juin 2026, Sébastien Lecornu est le Premier ministre français en fonction. Aucune information récente ne suggère qu'il quittera son poste avant le 30 juin 2026. Cependant, des tensions parlementaires persistent, notamment concernant la loi de programmation militaire, ce qui pourrait affecter sa position.",
+    "needsReview": true
   },
   {
     "id": "d2fb6a8f0c44141e",
@@ -4883,44 +4892,44 @@
     "category": "politique",
     "status": "open",
     "resolution": "pending",
-    "analysisLabel": "Rejet du Sénat d'un texte adopté par l'Assemblée en juin 2026",
+    "analysisLabel": "Rejet par le Sénat d'un texte adopté par l'Assemblée en juin 2026",
     "sources": [
+      "https://www.senat.fr/actualite/actualisation-de-la-loi-de-programmation-militaire-7690.html",
       "https://www.senat.fr/leg/ppl25-681.html",
-      "https://www.aa.com.tr/fr/politique/le-projet-de-loi-durgence-agricole-largement-adopt%C3%A9-%C3%A0-lassembl%C3%A9e-nationale/3954550",
-      "https://fr.zenit.org/2026/05/13/le-senat-francais-rejette-de-nouveau-laide-a-mourir/"
+      "https://lcp.fr/actualites/info-lcp-aide-a-mourir-pas-d-accord-entre-deputes-et-senateurs-le-texte-reviendra-a-l"
     ],
-    "lastAnalysisAt": "2026-06-06T11:28:28.526Z",
+    "lastAnalysisAt": "2026-06-08T09:04:59.538Z",
     "confidence": "medium",
     "evidence": [
       {
+        "url": "https://www.senat.fr/actualite/actualisation-de-la-loi-de-programmation-militaire-7690.html",
+        "title": "Actualisation de la loi de programmation militaire",
+        "excerpt": "Le Sénat se prononcera par un vote solennel le 9 juin 2026 sur le projet de loi adopté par l'Assemblée nationale après engagement de la procédure accélérée.",
+        "supports": "neutral",
+        "publishedAt": "2026-06-08",
+        "onTopic": false,
+        "relevance": "Le vote du Sénat sur ce texte est prévu pour le 9 juin 2026, donc aucun rejet n'a encore eu lieu."
+      },
+      {
         "url": "https://www.senat.fr/leg/ppl25-681.html",
         "title": "Droit à l'aide à mourir",
-        "excerpt": "Réunie le mardi 2 juin 2026, la commission mixte paritaire a constaté ne pouvoir parvenir à élaborer un texte commun sur les dispositions restant en discussion de la proposition de loi relative au droit à l’aide à mourir.",
+        "excerpt": "La commission mixte paritaire a constaté ne pouvoir parvenir à élaborer un texte commun sur la proposition de loi relative au droit à l’aide à mourir.",
         "supports": "neutral",
         "publishedAt": "2026-06-02",
         "onTopic": false,
-        "relevance": "Cet événement concerne une commission mixte paritaire en juin 2026, mais ne constitue pas un rejet par le Sénat d'un texte adopté par l'Assemblée nationale."
+        "relevance": "Bien que le Sénat ait rejeté ce texte en janvier 2026, il ne s'agit pas d'un rejet d'un texte adopté par l'Assemblée en juin 2026."
       },
       {
-        "url": "https://www.aa.com.tr/fr/politique/le-projet-de-loi-durgence-agricole-largement-adopt%C3%A9-%C3%A0-lassembl%C3%A9e-nationale/3954550",
-        "title": "Le projet de loi d'urgence agricole largement adopté à l'Assemblée nationale",
-        "excerpt": "L'Assemblée nationale a largement adopté, mardi en fin d'après-midi, le projet de loi d'urgence pour la protection et la souveraineté agricoles.",
+        "url": "https://lcp.fr/actualites/info-lcp-aide-a-mourir-pas-d-accord-entre-deputes-et-senateurs-le-texte-reviendra-a-l",
+        "title": "Aide à mourir: pas d'accord entre députés et sénateurs, le texte reviendra à l'Assemblée le 22 juin",
+        "excerpt": "Les députés et sénateurs réunis en commission mixte paritaire n'ont pas trouvé d'accord sur la proposition de loi relative au droit à l'aide à mourir.",
         "supports": "neutral",
         "publishedAt": "2026-06-02",
         "onTopic": false,
-        "relevance": "Le texte a été adopté par l'Assemblée nationale en juin 2026, mais il n'y a pas d'information sur un éventuel rejet par le Sénat."
-      },
-      {
-        "url": "https://fr.zenit.org/2026/05/13/le-senat-francais-rejette-de-nouveau-laide-a-mourir/",
-        "title": "Le Sénat français rejette de nouveau « l’aide à mourir »",
-        "excerpt": "Ce lundi 11 mai 2026, le Sénat français a adopté à la quasi-unanimité le texte de loi sur les soins palliatifs. Le lendemain, après sept heures de débats, 151 sénateurs contre 118 ont en revanche rejeté pour la deuxième fois la proposition de loi sur « l’aide à mourir ».",
-        "supports": "neutral",
-        "publishedAt": "2026-05-13",
-        "onTopic": false,
-        "relevance": "Le rejet par le Sénat de la proposition de loi sur l'aide à mourir a eu lieu en mai 2026, donc hors de la période spécifiée en juin 2026."
+        "relevance": "Ce désaccord persistant entre les deux chambres pourrait conduire à un rejet futur, mais ne constitue pas une preuve actuelle d'un rejet en juin 2026."
       }
     ],
-    "explanationFr": "À ce jour, le 6 juin 2026, il n'existe pas de preuve que le Sénat ait rejeté un texte adopté par l'Assemblée nationale en juin 2026. Les informations disponibles concernent des événements antérieurs, notamment le rejet par le Sénat de la proposition de loi sur l'aide à mourir en mai 2026. Par conséquent, la résolution de ce marché reste en attente de nouvelles informations pertinentes.",
+    "explanationFr": "À ce jour, le 8 juin 2026, il n'existe pas de preuve concluante indiquant que le Sénat a rejeté un texte adopté par l'Assemblée nationale en juin 2026. Cependant, des désaccords persistants entre les deux chambres sur des textes adoptés antérieurement, notamment sur le droit à l'aide à mourir, suggèrent que de tels rejets pourraient survenir prochainement.",
     "needsReview": false
   },
   {
@@ -4931,32 +4940,32 @@
     "resolution": "pending",
     "analysisLabel": "Le sommet du G7 2026 se tient en juin",
     "sources": [
-      "https://www.interieur.gouv.fr/sommet-du-g7-evian-15-17-juin-2026",
+      "https://www.interieur.gouv.fr/actualites/actualites-du-ministere/sommet-du-g7-evian-15-17-juin-2026",
       "https://www.consilium.europa.eu/fr/meetings/international-summit/2026/06/15-17/"
     ],
-    "lastAnalysisAt": "2026-06-06T11:28:38.185Z",
+    "lastAnalysisAt": "2026-06-08T09:05:05.011Z",
     "confidence": "medium",
     "evidence": [
       {
-        "url": "https://www.interieur.gouv.fr/sommet-du-g7-evian-15-17-juin-2026",
-        "title": "Sommet du G7 : Evian, 15-17 juin 2026 | Ministère de l'Intérieur",
+        "url": "https://www.interieur.gouv.fr/actualites/actualites-du-ministere/sommet-du-g7-evian-15-17-juin-2026",
+        "title": "Sommet du G7 : Evian, 15-17 juin 2026",
         "excerpt": "Les chefs d’État et de Gouvernement des 7 pays parmi les plus industrialisés au monde se réuniront à Evian, du 15 au 17 juin 2026.",
         "supports": "yes",
-        "publishedAt": "2026-04-06",
+        "publishedAt": "2026-04-08",
         "onTopic": true,
-        "relevance": "Annonce officielle des dates et du lieu du sommet du G7 2026."
+        "relevance": "Annonce officielle des dates du sommet du G7 2026 par le Ministère de l'Intérieur français."
       },
       {
         "url": "https://www.consilium.europa.eu/fr/meetings/international-summit/2026/06/15-17/",
         "title": "Sommet du G7, Évian, France, 15-17 juin 2026",
         "excerpt": "Le sommet du G7 se tiendra à Évian, France, du 15 au 17 juin 2026.",
         "supports": "yes",
-        "publishedAt": "2026-05-01",
+        "publishedAt": "2026-05-15",
         "onTopic": true,
-        "relevance": "Confirmation des dates et du lieu du sommet par le Conseil de l'Union européenne."
+        "relevance": "Confirmation des dates du sommet du G7 2026 par le Conseil de l'Union européenne."
       }
     ],
-    "explanationFr": "Le sommet du G7 2026 est prévu du 15 au 17 juin à Évian, en France. Cette information est confirmée par plusieurs sources officielles, notamment le ministère de l'Intérieur français et le Conseil de l'Union européenne.",
+    "explanationFr": "Le sommet du G7 2026 est prévu du 15 au 17 juin 2026 à Évian-les-Bains, en France. Cette information est confirmée par plusieurs sources officielles, notamment le Ministère de l'Intérieur français et le site du Conseil de l'Union européenne.",
     "needsReview": false
   },
   {
@@ -4965,35 +4974,45 @@
     "category": "politique",
     "status": "open",
     "resolution": "pending",
-    "analysisLabel": "1 preuve decisive — en attente d'une seconde source independante",
+    "analysisLabel": "Détérioration des relations diplomatiques USA-Europe en juin 2026",
     "sources": [
-      "https://www.euronews.com/my-europe/2026/06/05/trump-still-disappointed-with-nato-over-iran-warns-us-ambassador",
-      "https://fr.euronews.com/my-europe/2026/06/02/la-commission-du-commerce-valide-laccord-ueetats-unis-malgre-des-garde-fous-amoindris"
+      "https://fr.euronews.com/my-europe/2026/06/02/la-commission-du-commerce-valide-laccord-ueetats-unis-malgre-des-garde-fous-amoindris",
+      "https://www.brookings.edu/articles/can-the-united-states-and-europe-still-cooperate-in-the-middle-east/",
+      "https://www.spglobal.com/energy/en/news-research/videos/crude-oil/022726-trans-atlantic-political-relationship-shifting-in-2026"
     ],
-    "lastAnalysisAt": "2026-06-06T11:28:51.592Z",
+    "lastAnalysisAt": "2026-06-08T09:05:14.138Z",
     "confidence": "medium",
     "evidence": [
       {
-        "url": "https://www.euronews.com/my-europe/2026/06/05/trump-still-disappointed-with-nato-over-iran-warns-us-ambassador",
-        "title": "Trump 'still disappointed' with NATO over Iran, warns US Ambassador",
-        "excerpt": "L'ambassadeur américain auprès de l'UE, Andrew Pudzer, a déclaré que le président Trump est toujours déçu par le manque de soutien de l'OTAN dans la guerre contre l'Iran.",
-        "supports": "yes",
-        "publishedAt": "2026-06-05",
-        "onTopic": true,
-        "relevance": "Cette déclaration indique une tension persistante entre les États-Unis et l'OTAN, impliquant les relations diplomatiques avec l'Europe."
-      },
-      {
         "url": "https://fr.euronews.com/my-europe/2026/06/02/la-commission-du-commerce-valide-laccord-ueetats-unis-malgre-des-garde-fous-amoindris",
         "title": "La commission du commerce valide l'accord UE–États-Unis malgré des garde-fous amoindris",
-        "excerpt": "La commission du commerce du Parlement européen a approuvé un accord commercial avec les États-Unis, malgré des inquiétudes concernant des protections réduites.",
+        "excerpt": "La commission du commerce du Parlement européen a approuvé l'accord UE-États-Unis, ouvrant la voie à une adoption finale en juin malgré les craintes liées à l'approche coercitive de Donald Trump.",
         "supports": "neutral",
         "publishedAt": "2026-06-02",
         "onTopic": true,
-        "relevance": "Bien que l'accord ait été approuvé, les préoccupations concernant des protections réduites suggèrent des tensions potentielles dans les relations commerciales."
+        "relevance": "L'approbation de l'accord commercial malgré des inquiétudes sur l'approche américaine suggère des tensions persistantes dans les relations diplomatiques."
+      },
+      {
+        "url": "https://www.brookings.edu/articles/can-the-united-states-and-europe-still-cooperate-in-the-middle-east/",
+        "title": "Can the United States and Europe still cooperate in the Middle East?",
+        "excerpt": "Les divisions sur la gestion de la crise à Gaza et la guerre en Iran ont entravé la coopération transatlantique au Moyen-Orient et érodé les piliers des relations transatlantiques.",
+        "supports": "neutral",
+        "publishedAt": "2026-05-22",
+        "onTopic": true,
+        "relevance": "Les divergences sur le Moyen-Orient illustrent des tensions croissantes dans les relations diplomatiques USA-Europe."
+      },
+      {
+        "url": "https://www.spglobal.com/energy/en/news-research/videos/crude-oil/022726-trans-atlantic-political-relationship-shifting-in-2026",
+        "title": "Trans-Atlantic political relationship shifting in 2026",
+        "excerpt": "Les relations politiques transatlantiques évoluent en 2026, avec des questions clés comme le Groenland et la guerre en Ukraine influençant les marchés économiques.",
+        "supports": "neutral",
+        "publishedAt": "2026-02-27",
+        "onTopic": true,
+        "relevance": "Les tensions sur des sujets comme le Groenland et l'Ukraine indiquent des changements dans les relations diplomatiques."
       }
     ],
-    "explanationFr": "Les relations diplomatiques entre les États-Unis et l'Europe montrent des signes de tension en juin 2026. Le 5 juin, l'ambassadeur américain auprès de l'UE a exprimé la déception persistante du président Trump envers l'OTAN concernant l'Iran. Par ailleurs, le 2 juin, la commission du commerce du Parlement européen a approuvé un accord commercial avec les États-Unis, malgré des inquiétudes sur des garde-fous amoindris. Ces événements suggèrent une détérioration des relations, mais des preuves supplémentaires sont nécessaires pour confirmer cette tendance.",
-    "needsReview": true
+    "explanationFr": "Les relations diplomatiques entre les États-Unis et l'Europe montrent des signes de tension accrue en juin 2026. Bien que des accords commerciaux aient été approuvés, des divergences persistent sur des questions clés telles que le Groenland, l'Ukraine et le Moyen-Orient. Ces désaccords pourraient indiquer une détérioration des relations, mais des preuves supplémentaires sont nécessaires pour confirmer cette tendance.",
+    "needsReview": false
   },
   {
     "id": "78c2a705a230fcfc",
@@ -5001,32 +5020,23 @@
     "category": "politique",
     "status": "open",
     "resolution": "pending",
-    "analysisLabel": "Evenement hors juin (2026-05-06, ex. mai) — pas de sortie confirmée en juin",
+    "analysisLabel": "Appels à manifester en France en juin 2026",
     "sources": [
-      "https://www.rtl.fr/actu/debats-societe/sncf-quatre-syndicats-appellent-a-la-greve-le-10-juin-contre-les-reorganisations-du-groupe-ferroviaire-7900631855",
-      "https://www.leparisien.fr/societe/asphyxies-par-le-manque-de-moyens-les-surveillants-des-colleges-et-lycees-appeles-a-se-mobiliser-le-2-juin-22-05-2026-FEOZOBFKS5H6HLDXXS6FSZJIF4.php",
-      "https://www.vousnousils.fr/2026/05/27/appel-mobilisation-aesh-mardi-9-juin-2026-702623"
+      "https://www.sgen-cfdt.fr/actu/aed-appel-a-la-greve-le-2-juin-2026/",
+      "https://www.vousnousils.fr/2026/05/27/appel-mobilisation-aesh-mardi-9-juin-2026-702623",
+      "https://www.rtl.fr/actu/debats-societe/sncf-quatre-syndicats-appellent-a-la-greve-le-10-juin-contre-les-reorganisations-du-groupe-ferroviaire-7900631855"
     ],
-    "lastAnalysisAt": "2026-06-06T11:29:39.009Z",
+    "lastAnalysisAt": "2026-06-08T09:05:36.331Z",
     "confidence": "medium",
     "evidence": [
       {
-        "url": "https://www.rtl.fr/actu/debats-societe/sncf-quatre-syndicats-appellent-a-la-greve-le-10-juin-contre-les-reorganisations-du-groupe-ferroviaire-7900631855",
-        "title": "SNCF : quatre syndicats appellent à la grève le 10 juin, contre les \"réorganisations\" du groupe ferroviaire",
-        "excerpt": "Les quatre syndicats CGT-Cheminots, Sud-Rail, Unsa-Ferroviaire et CFDT-Cheminots ont déposé un préavis de grève pour le 10 juin prochain.",
-        "supports": "yes",
-        "publishedAt": "2026-05-06",
-        "onTopic": true,
-        "relevance": "Cet article confirme l'appel à la grève des syndicats de la SNCF le 10 juin 2026."
-      },
-      {
-        "url": "https://www.leparisien.fr/societe/asphyxies-par-le-manque-de-moyens-les-surveillants-des-colleges-et-lycees-appeles-a-se-mobiliser-le-2-juin-22-05-2026-FEOZOBFKS5H6HLDXXS6FSZJIF4.php",
-        "title": "« Asphyxiés par le manque de moyens » : les surveillants des collèges et lycées appelés à se mobiliser le 2 juin",
-        "excerpt": "Une intersyndicale appelle les assistants d’éducation (AED) à la grève et à des rassemblements mardi 2 juin partout en France.",
+        "url": "https://www.sgen-cfdt.fr/actu/aed-appel-a-la-greve-le-2-juin-2026/",
+        "title": "AED : appel à la mobilisation le 2 juin 2026",
+        "excerpt": "La CFDT Éducation Formation Recherche Publiques appelle, en intersyndicale, les AED à la mobilisation par des rassemblements ou toute forme d'engagement y compris par la grève le 2 juin 2026 dans toute la France.",
         "supports": "yes",
         "publishedAt": "2026-05-22",
         "onTopic": true,
-        "relevance": "Cet article rapporte l'appel à la mobilisation des assistants d'éducation le 2 juin 2026."
+        "relevance": "Appel à la mobilisation des assistants d'éducation le 2 juin 2026."
       },
       {
         "url": "https://www.vousnousils.fr/2026/05/27/appel-mobilisation-aesh-mardi-9-juin-2026-702623",
@@ -5035,10 +5045,19 @@
         "supports": "yes",
         "publishedAt": "2026-05-27",
         "onTopic": true,
-        "relevance": "Cet article mentionne l'appel à la mobilisation des AESH le 9 juin 2026."
+        "relevance": "Appel à la mobilisation des accompagnants d'élèves en situation de handicap le 9 juin 2026."
+      },
+      {
+        "url": "https://www.rtl.fr/actu/debats-societe/sncf-quatre-syndicats-appellent-a-la-greve-le-10-juin-contre-les-reorganisations-du-groupe-ferroviaire-7900631855",
+        "title": "SNCF : quatre syndicats appellent à la grève le 10 juin, contre les \"réorganisations\" du groupe ferroviaire",
+        "excerpt": "Les quatre syndicats CGT-Cheminots, Sud-Rail, Unsa-Ferroviaire et CFDT-Cheminots ont déposé un préavis de grève pour le 10 juin prochain.",
+        "supports": "yes",
+        "publishedAt": "2026-05-06",
+        "onTopic": true,
+        "relevance": "Appel à la grève nationale des syndicats de la SNCF le 10 juin 2026."
       }
     ],
-    "explanationFr": "Plusieurs syndicats ont appelé à des manifestations en France en juin 2026. Notamment, les quatre principaux syndicats de la SNCF (CGT-Cheminots, Sud-Rail, Unsa-Ferroviaire et CFDT-Cheminots) ont déposé un préavis de grève pour le 10 juin, dénonçant des réorganisations internes. De plus, les assistants d'éducation (AED) ont été appelés à la grève le 2 juin pour protester contre leurs conditions de travail. Enfin, les Accompagnants d'élèves en situation de handicap (AESH) ont prévu une mobilisation le 9 juin pour revendiquer un statut de fonctionnaire.\n\nMise a jour : Evenement hors juin (2026-05-06, ex. mai) — pas de sortie confirmée en juin",
+    "explanationFr": "Plusieurs syndicats ont appelé à des manifestations en France en juin 2026. Les assistants d'éducation (AED) ont été appelés à la mobilisation le 2 juin, les accompagnants d'élèves en situation de handicap (AESH) le 9 juin, et les syndicats de la SNCF ont prévu une grève nationale le 10 juin. Ces appels à manifester couvrent différentes dates et secteurs, confirmant une mobilisation syndicale en juin 2026.",
     "needsReview": false
   },
   {
@@ -5046,35 +5065,55 @@
     "title": "Les USA renforcent-ils leurs sanctions contre la Chine en juin 2026 ?",
     "category": "politique",
     "status": "open",
-    "resolution": "pending",
+    "resolution": "yes",
     "analysisLabel": "Renforcement des sanctions américaines contre la Chine en juin 2026",
     "sources": [
-      "https://www.aljazeera.com/economy/2026/6/1/us-says-ban-on-ai-chip-shipments-applies-to-chinese-firms-outside-china",
-      "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/june/ustr-makes-findings-and-proposes-action-60-section-301-investigations-relating-failures-take-action"
+      "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/june/ustr-makes-findings-and-proposes-action-60-section-301-investigations-relating-failures-take-action",
+      "https://www.washingtonpost.com/politics/2026/06/03/trade-tariffs-labor-trump-ustr/2ea78778-5f00-11f1-9c46-d6211372eede_story.html",
+      "https://www.whitehouse.gov/fact-sheets/2026/05/fact-sheet-president-donald-j-trump-secures-historic-deals-with-china-delivering-for-american-workers-farmers-and-industry/",
+      "https://www.washingtonpost.com/politics/2026/04/24/treasury-bessent-sanctions-china-iran-oil/544c7f80-4009-11f1-bb46-ed564688d953_story.html"
     ],
-    "lastAnalysisAt": "2026-06-06T11:30:21.172Z",
-    "confidence": "medium",
+    "lastAnalysisAt": "2026-06-08T09:05:56.273Z",
+    "confidence": "high",
     "evidence": [
-      {
-        "url": "https://www.aljazeera.com/economy/2026/6/1/us-says-ban-on-ai-chip-shipments-applies-to-chinese-firms-outside-china",
-        "title": "US says ban on AI chip shipments applies to Chinese firms outside China",
-        "excerpt": "The United States has issued a notice affirming its restrictions on shipments of semiconductors to subsidiaries of Chinese companies located outside China amid concerns about loopholes in Washington’s export control regime.",
-        "supports": "neutral",
-        "publishedAt": "2026-06-01",
-        "onTopic": true,
-        "relevance": "Clarification des restrictions existantes sur les exportations de semi-conducteurs vers les filiales de sociétés chinoises situées en dehors de la Chine."
-      },
       {
         "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/june/ustr-makes-findings-and-proposes-action-60-section-301-investigations-relating-failures-take-action",
         "title": "USTR Makes Findings and Proposes Action in 60 Section 301 Investigations Relating to Failures to Take Action on Trade in Forced Labor Goods",
-        "excerpt": "The United States Trade Representative determined under Section 301 of the Trade Act of 1974 that the acts, policies, and practices of 60 economies related to the failure to impose and effectively enforce a prohibition on the importation of goods produced with forced labor is unreasonable and burdens or restricts U.S. commerce, and are thus actionable under Section 301(b) of the Trade Act.",
-        "supports": "neutral",
+        "excerpt": "Le 2 juin 2026, le représentant américain au commerce a déterminé que les actes, politiques et pratiques de 60 économies, y compris la Chine, concernant l'échec à imposer et à appliquer efficacement une interdiction sur l'importation de biens produits avec du travail forcé, sont déraisonnables et restreignent le commerce américain. En conséquence, des droits de douane supplémentaires de 10 % ou 12,5 % sur tous les produits de ces économies ont été proposés.",
+        "supports": "yes",
         "publishedAt": "2026-06-02",
         "onTopic": true,
-        "relevance": "Proposition de droits de douane supplémentaires sur les importations en provenance de 60 économies, y compris la Chine, en raison de l'échec à interdire efficacement l'importation de biens produits avec du travail forcé."
+        "relevance": "Cette source indique que les États-Unis ont proposé des droits de douane supplémentaires sur les importations en provenance de la Chine en juin 2026, ce qui constitue une proposition de renforcement des sanctions."
+      },
+      {
+        "url": "https://www.washingtonpost.com/politics/2026/06/03/trade-tariffs-labor-trump-ustr/2ea78778-5f00-11f1-9c46-d6211372eede_story.html",
+        "title": "US says it plans extra tariffs of 10% or more for most trading partners after forced labor probe",
+        "excerpt": "L'administration Trump propose que des droits de douane de 10 % ou plus soient imposés sur les produits de dizaines de partenaires commerciaux majeurs, y compris la Chine, suite à une enquête sur les importations de biens prétendument fabriqués avec du travail forcé.",
+        "supports": "yes",
+        "publishedAt": "2026-06-03",
+        "onTopic": true,
+        "relevance": "Cette source confirme que les États-Unis envisagent d'imposer des droits de douane supplémentaires sur les importations en provenance de la Chine en juin 2026, en réponse à des préoccupations concernant le travail forcé."
+      },
+      {
+        "url": "https://www.whitehouse.gov/fact-sheets/2026/05/fact-sheet-president-donald-j-trump-secures-historic-deals-with-china-delivering-for-american-workers-farmers-and-industry/",
+        "title": "Fact Sheet: President Donald J. Trump Secures Historic Deals with China, Delivering for American Workers, Farmers, and Industry",
+        "excerpt": "Le 17 mai 2026, le président Donald J. Trump a conclu des accords historiques avec la Chine, visant à renforcer la stabilité et la confiance pour les entreprises et les consommateurs du monde entier.",
+        "supports": "no",
+        "publishedAt": "2026-05-17",
+        "onTopic": false,
+        "relevance": "Cette source traite des accords commerciaux entre les États-Unis et la Chine en mai 2026, mais ne mentionne pas de renforcement des sanctions en juin 2026."
+      },
+      {
+        "url": "https://www.washingtonpost.com/politics/2026/04/24/treasury-bessent-sanctions-china-iran-oil/544c7f80-4009-11f1-bb46-ed564688d953_story.html",
+        "title": "US imposes sanctions on a China-based oil refinery and 40 shippers over Iranian oil",
+        "excerpt": "Le 24 avril 2026, l'administration Trump a imposé des sanctions économiques à une importante raffinerie de pétrole basée en Chine et à environ 40 compagnies maritimes impliquées dans le transport de pétrole iranien.",
+        "supports": "no",
+        "publishedAt": "2026-04-24",
+        "onTopic": false,
+        "relevance": "Cette source concerne des sanctions imposées en avril 2026, donc en dehors de la période spécifiée de juin 2026."
       }
     ],
-    "explanationFr": "Des mesures récentes suggèrent un possible renforcement des sanctions américaines contre la Chine en juin 2026. Le 1er juin 2026, le Département du Commerce a clarifié que les restrictions sur les exportations de semi-conducteurs avancés s'appliquent aux filiales de sociétés chinoises situées en dehors de la Chine. De plus, le 2 juin 2026, le Bureau du Représentant américain au Commerce a proposé des droits de douane supplémentaires de 10 % ou 12,5 % sur les importations en provenance de 60 économies, y compris la Chine, en raison de leur échec à interdire efficacement l'importation de biens produits avec du travail forcé. Cependant, ces mesures sont encore en phase de proposition ou de clarification, et il n'est pas certain qu'elles constituent un renforcement effectif des sanctions contre la Chine en juin 2026.",
+    "explanationFr": "En juin 2026, les États-Unis ont proposé des droits de douane supplémentaires de 10 % ou 12,5 % sur les importations en provenance de 60 économies, y compris la Chine, en raison de leur échec à interdire efficacement l'importation de biens produits par le travail forcé. Cette proposition, annoncée le 2 juin 2026, est en cours de consultation publique et n'a pas encore été mise en œuvre. Par conséquent, bien que des mesures aient été proposées, elles ne constituent pas encore un renforcement effectif des sanctions contre la Chine en juin 2026.",
     "needsReview": false
   },
   {
@@ -5119,13 +5158,12 @@
     "category": "politique",
     "status": "open",
     "resolution": "pending",
-    "analysisLabel": "Apparition publique sans cravate de Macron avant le 30 juin",
+    "analysisLabel": "Apparition publique sans cravate de Macron avant le 30 juin 2026",
     "sources": [
       "https://www.boursorama.com/actualite-economique/actualites-amp/macron-s-est-rendu-a-clairefontaine-pour-encourager-les-bleus-avant-le-mondial-5de65b928c4a3cf3bc4c8800ca6619c9",
-      "https://www.leparisien.fr/sports/football/coupe-du-monde/coupe-du-monde-2026-emmanuel-macron-en-visite-a-clairefontaine-pour-encourager-les-bleus-avant-le-debut-de-la-competition-02-06-2026-E3NLVURXJZBGDMUM2C4L4WVF4I.php",
-      "https://www.lequipe.fr/Football/Actualites/En-visite-a-clairefontaine-emmanuel-macron-a-dejeune-avec-les-joueurs-de-l-equipe-de-france/1681136"
+      "https://www.euronews.com/culture/2026/01/21/from-the-danger-zone-to-davos-why-did-emmanuel-macrons-aviator-sunglasses-go-viral"
     ],
-    "lastAnalysisAt": "2026-06-06T11:30:36.121Z",
+    "lastAnalysisAt": "2026-06-08T09:06:05.516Z",
     "confidence": "medium",
     "evidence": [
       {
@@ -5134,29 +5172,20 @@
         "excerpt": "Emmanuel Macron s'est rendu mardi midi au centre d'entraînement de l'équipe de France de football à Clairefontaine pour encourager les Bleus et déjeuner avec eux, avant la Coupe du monde nord-américaine.",
         "supports": "neutral",
         "publishedAt": "2026-06-02",
-        "onTopic": true,
-        "relevance": "L'article mentionne une apparition publique récente de Macron, mais ne précise pas s'il portait une cravate."
+        "onTopic": false,
+        "relevance": "L'article ne mentionne pas la tenue vestimentaire de Macron lors de sa visite à Clairefontaine."
       },
       {
-        "url": "https://www.leparisien.fr/sports/football/coupe-du-monde/coupe-du-monde-2026-emmanuel-macron-en-visite-a-clairefontaine-pour-encourager-les-bleus-avant-le-debut-de-la-competition-02-06-2026-E3NLVURXJZBGDMUM2C4L4WVF4I.php",
-        "title": "Coupe du monde 2026 : Emmanuel Macron en visite à Clairefontaine pour encourager les Bleus avant le début de la compétition",
-        "excerpt": "Le président de la République et son épouse Brigitte Macron ont rendu visite à l’équipe de France ce mardi à Clairefontaine, à huit jours du départ des Bleus aux États-Unis pour la Coupe du monde.",
+        "url": "https://www.euronews.com/culture/2026/01/21/from-the-danger-zone-to-davos-why-did-emmanuel-macrons-aviator-sunglasses-go-viral",
+        "title": "From the danger zone to Davos: Why did Emmanuel Macron's aviator sunglasses go viral?",
+        "excerpt": "Emmanuel Macron's gone viral for reasons he may not have expected after he wore reflective aviator sunglasses at the World Economic Forum in Davos.",
         "supports": "neutral",
-        "publishedAt": "2026-06-02",
-        "onTopic": true,
-        "relevance": "L'article rapporte une apparition publique de Macron, mais ne fournit pas d'informations sur sa tenue vestimentaire."
-      },
-      {
-        "url": "https://www.lequipe.fr/Football/Actualites/En-visite-a-clairefontaine-emmanuel-macron-a-dejeune-avec-les-joueurs-de-l-equipe-de-france/1681136",
-        "title": "En visite à Clairefontaine, Emmanuel Macron a déjeuné avec les joueurs de l'équipe de France",
-        "excerpt": "Après avoir rencontré l'équipe de France féminine, le président de la République Emmanuel Macron a déjeuné avec les Bleus, désormais au complet à Clairefontaine pour préparer la Coupe du monde (11 juin-19 juillet).",
-        "supports": "neutral",
-        "publishedAt": "2026-06-02",
-        "onTopic": true,
-        "relevance": "L'article mentionne une apparition publique de Macron, mais ne précise pas s'il portait une cravate."
+        "publishedAt": "2026-01-21",
+        "onTopic": false,
+        "relevance": "L'article se concentre sur les lunettes de soleil de Macron à Davos, sans mentionner sa cravate."
       }
     ],
-    "explanationFr": "Aucune preuve concluante n'a été trouvée indiquant qu'Emmanuel Macron est apparu publiquement sans cravate avant le 30 juin 2026. Les sources disponibles ne mentionnent pas spécifiquement sa tenue vestimentaire lors de ses récentes apparitions publiques.",
+    "explanationFr": "Aucune preuve concluante n'a été trouvée indiquant qu'Emmanuel Macron est apparu en public sans cravate avant le 30 juin 2026. Les sources disponibles ne mentionnent pas spécifiquement sa tenue vestimentaire lors de ses apparitions publiques récentes.",
     "needsReview": false
   },
   {
@@ -5204,9 +5233,10 @@
     "analysisLabel": "Déclaration politique majeure de Marine Le Pen en juin 2026",
     "sources": [
       "https://www.closermag.fr/politique/marine-le-pen-tacle-kylian-mbappe-quand-il-dit-quon-ne-va-pas-gagner-ca-me-rassure-3640091",
-      "https://www.lemonde.fr/en/politics/article/2026/06/01/far-right-leaders-bardella-and-le-pen-diverge-on-pension-reform-it-s-the-party-s-explosive-issue_6754025_5.html"
+      "https://www.lemonde.fr/en/politics/article/2026/06/01/far-right-leaders-bardella-and-le-pen-diverge-on-pension-reform-it-s-the-party-s-explosive-issue_6754025_5.html",
+      "https://www.rtl.fr/actu/politique/sur-rtl-marine-le-pen-repond-a-kylian-mbappe-quand-il-dit-qu-on-ne-va-pas-gagner-les-elections-ca-me-rassure-7900634160"
     ],
-    "lastAnalysisAt": "2026-06-06T11:30:46.393Z",
+    "lastAnalysisAt": "2026-06-08T09:06:14.289Z",
     "confidence": "medium",
     "evidence": [
       {
@@ -5216,19 +5246,28 @@
         "supports": "neutral",
         "publishedAt": "2026-06-04",
         "onTopic": false,
-        "relevance": "Réaction de Marine Le Pen aux critiques de Kylian Mbappé, sans lien direct avec une déclaration politique majeure."
+        "relevance": "Cette déclaration concerne une réponse ironique de Marine Le Pen à Kylian Mbappé, sans constituer une déclaration politique majeure."
       },
       {
         "url": "https://www.lemonde.fr/en/politics/article/2026/06/01/far-right-leaders-bardella-and-le-pen-diverge-on-pension-reform-it-s-the-party-s-explosive-issue_6754025_5.html",
         "title": "Bardella and Le Pen diverge on pension reform: 'It's the party's explosive issue'",
-        "excerpt": "Marine Le Pen et Jordan Bardella affichent des divergences publiques sur la réforme des retraites, un sujet sensible au sein du Rassemblement National.",
+        "excerpt": "Marine Le Pen et Jordan Bardella, leaders du Rassemblement National, affichent des divergences publiques sur la réforme des retraites.",
         "supports": "neutral",
         "publishedAt": "2026-06-01",
         "onTopic": false,
-        "relevance": "Article traitant des divergences internes au RN sur la réforme des retraites, sans mention d'une déclaration politique majeure de Marine Le Pen en juin 2026."
+        "relevance": "Cet article traite des divergences internes au RN sur la réforme des retraites, mais ne mentionne pas de déclaration politique majeure de Marine Le Pen en juin 2026."
+      },
+      {
+        "url": "https://www.rtl.fr/actu/politique/sur-rtl-marine-le-pen-repond-a-kylian-mbappe-quand-il-dit-qu-on-ne-va-pas-gagner-les-elections-ca-me-rassure-7900634160",
+        "title": "Sur RTL, Marine Le Pen répond à Kylian Mbappé : \"Quand il dit qu’on ne va pas gagner les élections, ça me rassure\"",
+        "excerpt": "Marine Le Pen réagit aux déclarations de Kylian Mbappé sur le Rassemblement national.",
+        "supports": "neutral",
+        "publishedAt": "2026-05-13",
+        "onTopic": false,
+        "relevance": "Cette déclaration, bien que politique, date de mai 2026 et ne concerne pas le mois de juin 2026."
       }
     ],
-    "explanationFr": "À ce jour, aucune déclaration politique majeure de Marine Le Pen en juin 2026 n'a été identifiée. Les informations disponibles concernent des déclarations antérieures ou des sujets périphériques.",
+    "explanationFr": "À ce jour, aucune déclaration politique majeure de Marine Le Pen en juin 2026 n'a été identifiée. Les informations disponibles concernent des déclarations antérieures ou des sujets moins significatifs. Par conséquent, la résolution de ce marché reste en attente.",
     "needsReview": false
   },
   {
@@ -5237,12 +5276,13 @@
     "category": "politique",
     "status": "open",
     "resolution": "pending",
-    "analysisLabel": "Absence de publication TikTok par Marine Le Pen",
+    "analysisLabel": "Absence de preuve de publication TikTok par Marine Le Pen",
     "sources": [
       "https://tikbuddy.com/tiktok/avec_marine",
+      "https://tikbuddy.com/tiktok/marinelepen.presidente",
       "https://www.leparisien.fr/high-tech/qui-sont-amandine-le-pen-et-lena-marechal-ces-deepfakes-qui-font-la-promotion-de-lextreme-droite-sur-tiktok-13-04-2024-ZPPCZKLDDFAKVE4FU4ZV44ZJRE.php"
     ],
-    "lastAnalysisAt": "2026-06-06T11:30:59.491Z",
+    "lastAnalysisAt": "2026-06-08T09:06:31.769Z",
     "confidence": "medium",
     "evidence": [
       {
@@ -5251,20 +5291,29 @@
         "excerpt": "Compte citoyen et non-officiel de soutien à Marine Le Pen.",
         "supports": "neutral",
         "publishedAt": "2026-06-05",
-        "onTopic": true,
-        "relevance": "Ce compte TikTok est un compte de soutien non officiel et ne représente pas une publication directe de Marine Le Pen."
+        "onTopic": false,
+        "relevance": "Compte de soutien non officiel, pas de publication directe de Marine Le Pen."
+      },
+      {
+        "url": "https://tikbuddy.com/tiktok/marinelepen.presidente",
+        "title": "marinelepen.presidente - @marinelepen.presidente TikTok Videos Statistics and Profile Analytics | TikBuddy",
+        "excerpt": "Compte de soutien à Marine Le Pen, candidate à la présidence de la République.",
+        "supports": "neutral",
+        "publishedAt": "2026-06-01",
+        "onTopic": false,
+        "relevance": "Compte de soutien non officiel, pas de publication directe de Marine Le Pen."
       },
       {
         "url": "https://www.leparisien.fr/high-tech/qui-sont-amandine-le-pen-et-lena-marechal-ces-deepfakes-qui-font-la-promotion-de-lextreme-droite-sur-tiktok-13-04-2024-ZPPCZKLDDFAKVE4FU4ZV44ZJRE.php",
         "title": "Qui sont Amandine Le Pen et Léna Maréchal, ces deepfakes qui font la promotion de l’extrême droite sur TikTok ? - Le Parisien",
-        "excerpt": "Des faux comptes utilisant les noms et visages de Marine Le Pen et Marion Maréchal ont été identifiés sur TikTok.",
+        "excerpt": "Des faux profils se servent des noms et des visages de Marine Le Pen et Marion Maréchal pour faire la promotion de l’extrême droite.",
         "supports": "neutral",
         "publishedAt": "2024-04-13",
-        "onTopic": true,
-        "relevance": "Ces deepfakes ne constituent pas des publications officielles de Marine Le Pen sur TikTok."
+        "onTopic": false,
+        "relevance": "Utilisation de deepfakes pour promouvoir l'extrême droite, pas de publication directe de Marine Le Pen."
       }
     ],
-    "explanationFr": "Aucune preuve directe n'indique que Marine Le Pen a publié sur TikTok avant le 30 juin 2026. Des comptes non officiels et des deepfakes ont été identifiés, mais ils ne sont pas liés à des publications officielles de sa part.",
+    "explanationFr": "Aucune preuve directe n'indique que Marine Le Pen a publié sur TikTok avant le 30 juin 2026. Des comptes de soutien existent, mais ils ne sont pas officiels. De plus, des deepfakes de proches fictifs ont été utilisés pour promouvoir l'extrême droite sur TikTok, mais ces comptes ont été supprimés en 2024.",
     "needsReview": false
   },
   {
@@ -5276,31 +5325,31 @@
     "analysisLabel": "Nombre de tweets de Trump avant le 30 juin",
     "sources": [
       "https://www.thedailybeast.com/trump-sets-new-posting-record-on-truth-social-as-mania-spirals-out-of-control/",
-      "https://polymarket.com/fr/event/donald-trump-of-truth-social-posts-june-5-june-12?marketSlug=donald-trump-of-truth-social-posts-june-5-june-12-200plus&outcomeIndex=1"
+      "https://supertrumptracker.com/"
     ],
-    "lastAnalysisAt": "2026-06-06T11:31:10.741Z",
+    "lastAnalysisAt": "2026-06-08T09:06:38.084Z",
     "confidence": "medium",
     "evidence": [
       {
         "url": "https://www.thedailybeast.com/trump-sets-new-posting-record-on-truth-social-as-mania-spirals-out-of-control/",
         "title": "Trump Sets Worrying New Record as Mania Spirals Out of Control",
-        "excerpt": "President Donald Trump’s manic posting exploded to an unprecedented level in May, a Daily Beast analysis has found. We calculated that his average posts per day spiked to 27, or the equivalent of just over once every hour of every day. Our analysis found that Trump posted on Truth Social an astounding 861 times last month.",
+        "excerpt": "President Donald Trump’s manic posting exploded to an unprecedented level in May, a Daily Beast analysis has found. We calculated that his average posts per day spiked to 27, or the equivalent of just over once every hour of every day.",
         "supports": "neutral",
         "publishedAt": "2026-06-02",
-        "onTopic": true,
-        "relevance": "Cet article indique que Donald Trump a publié 861 messages sur Truth Social en mai 2026, soit une moyenne de 27 publications par jour."
+        "onTopic": false,
+        "relevance": "L'article indique que Trump a posté en moyenne 27 fois par jour sur Truth Social en mai 2026, mais ne fournit pas d'informations spécifiques sur le nombre de tweets postés en juin 2026."
       },
       {
-        "url": "https://polymarket.com/fr/event/donald-trump-of-truth-social-posts-june-5-june-12?marketSlug=donald-trump-of-truth-social-posts-june-5-june-12-200plus&outcomeIndex=1",
-        "title": "Donald Trump # Truth Social posts 5 juin - 12 juin 2026 ?",
-        "excerpt": "Ce marché prédictif estime que Donald Trump pourrait publier plus de 200 messages sur Truth Social entre le 5 et le 12 juin 2026.",
+        "url": "https://supertrumptracker.com/",
+        "title": "SuperTrumpTracker — Complete Archive of Trump's Posts on X & Truth Social",
+        "excerpt": "A complete, searchable timeline of Donald Trump's posts on X and Truth Social. Browse 93,872 posts in chronological order — 35,013 from Truth Social, 58,859 from X — with direct links to originals and topic search pages.",
         "supports": "neutral",
-        "publishedAt": "2026-06-02",
-        "onTopic": true,
-        "relevance": "Ce marché prédictif suggère que Donald Trump pourrait publier plus de 200 messages sur Truth Social entre le 5 et le 12 juin 2026, mais ces estimations ne sont pas confirmées."
+        "publishedAt": "2026-06-06",
+        "onTopic": false,
+        "relevance": "Le site fournit une archive complète des publications de Trump, mais ne détaille pas spécifiquement le nombre de tweets postés en juin 2026."
       }
     ],
-    "explanationFr": "Au 6 juin 2026, Donald Trump a publié un nombre significatif de messages sur Truth Social, avec une moyenne de 27 publications par jour en mai 2026. Cependant, le nombre exact de tweets qu'il publiera avant le 30 juin 2026 reste incertain. Des marchés prédictifs suggèrent qu'il pourrait publier plus de 200 messages sur Truth Social entre le 5 et le 12 juin 2026, mais ces estimations ne sont pas confirmées. Par conséquent, la résolution de ce marché est actuellement en attente.",
+    "explanationFr": "Les données disponibles indiquent que Donald Trump a maintenu une activité élevée sur Truth Social en mai 2026, avec une moyenne de 27 publications par jour. Cependant, les informations spécifiques concernant le nombre de tweets postés par Trump en juin 2026 ne sont pas encore disponibles. Il est donc prématuré de tirer une conclusion définitive sur le nombre total de tweets qu'il publiera avant le 30 juin.",
     "needsReview": false
   },
   {
@@ -5483,24 +5532,44 @@
     "category": "politique",
     "status": "open",
     "resolution": "pending",
-    "analysisLabel": "Pas de démission ministérielle en juin 2026",
+    "analysisLabel": "Démission ministérielle en juin 2026",
     "sources": [
-      "https://www.info.gouv.fr/conseil-des-ministres/compte-rendu-du-conseil-des-ministres-du-03-06-2026"
+      "https://www.latribune.fr/article/la-tribune-dimanche/municipales/42660952753443/municipales-2026-la-ministre-de-la-culture-rachida-dati-demissionne-du-gouvernement-pour-se-consacrer-a-la-campagne-de-paris",
+      "https://www.info.gouv.fr/actualite/demission-de-sebastien-lecornu",
+      "https://www.info.gouv.fr/actualite/demission-de-francois-bayrou"
     ],
-    "lastAnalysisAt": "2026-06-06T11:31:36.112Z",
+    "lastAnalysisAt": "2026-06-08T09:06:47.240Z",
     "confidence": "medium",
     "evidence": [
       {
-        "url": "https://www.info.gouv.fr/conseil-des-ministres/compte-rendu-du-conseil-des-ministres-du-03-06-2026",
-        "title": "Conseil des ministres du 3 juin 2026",
-        "excerpt": "Le compte rendu du Conseil des ministres du 3 juin 2026 ne mentionne pas de démission ministérielle.",
-        "supports": "no",
-        "publishedAt": "2026-06-03",
-        "onTopic": true,
-        "relevance": "Le compte rendu officiel du Conseil des ministres est une source fiable pour vérifier les changements au sein du gouvernement."
+        "url": "https://www.latribune.fr/article/la-tribune-dimanche/municipales/42660952753443/municipales-2026-la-ministre-de-la-culture-rachida-dati-demissionne-du-gouvernement-pour-se-consacrer-a-la-campagne-de-paris",
+        "title": "Municipales 2026 : la ministre de la Culture Rachida Dati démissionne du gouvernement pour se consacrer à la campagne de Paris",
+        "excerpt": "Rachida Dati a annoncé sa démission du gouvernement pour se concentrer sur l'élection municipale à Paris.",
+        "supports": "neutral",
+        "publishedAt": "2026-02-25",
+        "onTopic": false,
+        "relevance": "La démission de Rachida Dati a eu lieu en février 2026, en dehors de la période concernée par le marché."
+      },
+      {
+        "url": "https://www.info.gouv.fr/actualite/demission-de-sebastien-lecornu",
+        "title": "Démission de Sébastien Lecornu",
+        "excerpt": "Le Premier ministre Sébastien Lecornu a remis la démission de son gouvernement au président de la République.",
+        "supports": "neutral",
+        "publishedAt": "2025-10-06",
+        "onTopic": false,
+        "relevance": "La démission de Sébastien Lecornu a eu lieu en octobre 2025, en dehors de la période concernée par le marché."
+      },
+      {
+        "url": "https://www.info.gouv.fr/actualite/demission-de-francois-bayrou",
+        "title": "Démission de François Bayrou",
+        "excerpt": "Le Premier ministre François Bayrou a remis la démission de son gouvernement au président de la République.",
+        "supports": "neutral",
+        "publishedAt": "2025-09-09",
+        "onTopic": false,
+        "relevance": "La démission de François Bayrou a eu lieu en septembre 2025, en dehors de la période concernée par le marché."
       }
     ],
-    "explanationFr": "Aucune information récente ne signale la démission d'un ministre du gouvernement français en juin 2026. Les sources disponibles, notamment le compte rendu du Conseil des ministres du 3 juin 2026, ne mentionnent pas de telles démissions. Par conséquent, il n'existe pas de preuves suffisantes pour confirmer qu'un ministre du gouvernement a démissionné en juin 2026.",
+    "explanationFr": "Aucune preuve actuelle ne confirme la démission d'un ministre du gouvernement français en juin 2026. Les démissions antérieures, telles que celle de Rachida Dati en février 2026, ne sont pas pertinentes pour ce marché. Par conséquent, le marché reste en attente de nouvelles informations.",
     "needsReview": false
   },
   {
@@ -5511,52 +5580,32 @@
     "resolution": "pending",
     "analysisLabel": "Création d'un nouveau parti ou mouvement politique en France en juin 2026",
     "sources": [
-      "https://www.capitol.fr/fr/actualites/categorie/politique/le-gouvernement-veut-dissoudre-un-groupe-d-ultradroite-patria-albiges-et-un-d-ultragauche-front-de-rue-afp-b31f6f232d0b1f338a9623d045dc11086b67f785",
-      "https://imazpress.com/courrier-des-lecteurs/raphael-glucksmann-donne-rendez-vous-aux-francais-le-13-juin-lors-d-un-grand-meeting-de-mobilisation-a-paris",
-      "https://www.ledauphine.com/politique/2025/06/10/l-ancien-ministre-olivier-becht-cree-son-mouvement-projet-france",
-      "https://media-web.fr/naissance-dun-nouveau-mouvement-ecologiste-les-verts-populaires/"
+      "https://www.leparisien.fr/politique/un-outil-de-resistance-le-ps-inaugure-son-laboratoire-didees-baptise-nous-29-05-2026-RNSIU3ZJMVAKZGAJKKY72COSZI.php",
+      "https://www.lemonde.fr/en/m-le-mag/article/2026/06/07/melenchon-holds-first-campaign-rally-in-saint-denis-as-part-of-identity-based-new-france-strategy_6754218_117.html"
     ],
-    "lastAnalysisAt": "2026-06-06T11:32:00.219Z",
+    "lastAnalysisAt": "2026-06-08T09:06:53.408Z",
     "confidence": "medium",
     "evidence": [
       {
-        "url": "https://www.capitol.fr/fr/actualites/categorie/politique/le-gouvernement-veut-dissoudre-un-groupe-d-ultradroite-patria-albiges-et-un-d-ultragauche-front-de-rue-afp-b31f6f232d0b1f338a9623d045dc11086b67f785",
-        "title": "Le gouvernement veut dissoudre un groupe d'ultradroite, Patria Albiges, et un d'ultragauche, Front de rue",
-        "excerpt": "Le gouvernement a annoncé son intention de dissoudre deux groupements, l'un d'ultradroite, Patria Albiges, et l'autre d'ultragauche, Front de rue.",
+        "url": "https://www.leparisien.fr/politique/un-outil-de-resistance-le-ps-inaugure-son-laboratoire-didees-baptise-nous-29-05-2026-RNSIU3ZJMVAKZGAJKKY72COSZI.php",
+        "title": "« Un outil de résistance » : le PS inaugure son laboratoire d’idées baptisé « Noûs »",
+        "excerpt": "Le Parti socialiste lance un think tank baptisé Noûs (« esprit, « intelligence » en grec), pour mener « la bataille culturelle » face au « néo-conservatisme d’extrême droite ».",
         "supports": "neutral",
-        "publishedAt": "2026-06-03",
+        "publishedAt": "2026-05-29",
         "onTopic": false,
-        "relevance": "Cet article traite de la dissolution de groupements existants, mais ne mentionne pas la création de nouveaux partis ou mouvements politiques en juin 2026."
+        "relevance": "Bien que récent, le lancement de ce think tank ne constitue pas la création d'un nouveau parti ou mouvement politique."
       },
       {
-        "url": "https://imazpress.com/courrier-des-lecteurs/raphael-glucksmann-donne-rendez-vous-aux-francais-le-13-juin-lors-d-un-grand-meeting-de-mobilisation-a-paris",
-        "title": "Raphaël Glucksmann donne rendez-vous aux Français le 13 juin lors d’un grand meeting de mobilisation à Paris",
-        "excerpt": "Raphaël Glucksmann réunira militants, sympathisants et citoyens engagés lors d’un grand meeting de mobilisation organisé par Place publique.",
+        "url": "https://www.lemonde.fr/en/m-le-mag/article/2026/06/07/melenchon-holds-first-campaign-rally-in-saint-denis-as-part-of-identity-based-new-france-strategy_6754218_117.html",
+        "title": "Mélenchon holds first campaign rally in Saint-Denis as part of identity-based 'new France' strategy",
+        "excerpt": "Jean-Luc Mélenchon has launched his fourth presidential campaign in Saint-Denis, highlighting a strategic shift in his rhetoric to embrace an identity-focused message under the slogan 'new France.'",
         "supports": "neutral",
-        "publishedAt": "2026-06-02",
+        "publishedAt": "2026-06-07",
         "onTopic": false,
-        "relevance": "Cet article annonce un meeting de mobilisation, mais ne signale pas la création d'un nouveau parti ou mouvement politique en juin 2026."
-      },
-      {
-        "url": "https://www.ledauphine.com/politique/2025/06/10/l-ancien-ministre-olivier-becht-cree-son-mouvement-projet-france",
-        "title": "Politique. L’ancien ministre Olivier Becht crée son mouvement, 'Projet France'",
-        "excerpt": "Olivier Becht lance une plateforme collaborative, 'Projet France', visant à repenser le modèle français en faisant appel à l’intelligence collective.",
-        "supports": "neutral",
-        "publishedAt": "2025-06-10",
-        "onTopic": false,
-        "relevance": "Cet article date de juin 2025 et concerne la création d'un mouvement politique à cette époque, sans lien direct avec juin 2026."
-      },
-      {
-        "url": "https://media-web.fr/naissance-dun-nouveau-mouvement-ecologiste-les-verts-populaires/",
-        "title": "Naissance d’un nouveau mouvement écologiste : Les Verts populaires",
-        "excerpt": "Des militants déçus du parti Les Écologistes ont annoncé la création de leur propre formation : Les Verts populaires.",
-        "supports": "neutral",
-        "publishedAt": "2026-04-23",
-        "onTopic": false,
-        "relevance": "Cet article, publié en avril 2026, mentionne la création d'un nouveau mouvement écologiste, mais cela précède la période de juin 2026."
+        "relevance": "Le lancement de la campagne présidentielle de Mélenchon ne correspond pas à la création d'un nouveau parti ou mouvement politique."
       }
     ],
-    "explanationFr": "À ce jour, aucune information confirmant la création d'un nouveau parti ou mouvement politique en France en juin 2026 n'a été trouvée. Cependant, des événements récents suggèrent des dynamiques politiques en cours, notamment des dissolutions de groupements existants et des initiatives de mobilisation.",
+    "explanationFr": "Les informations disponibles indiquent des initiatives politiques récentes en France, mais aucune ne correspond précisément à la création d'un nouveau parti ou mouvement politique en juin 2026. Le Parti socialiste a lancé un think tank nommé 'Noûs', et Jean-Luc Mélenchon a entamé sa campagne présidentielle, mais ces actions ne constituent pas la formation de nouveaux partis ou mouvements.",
     "needsReview": false
   },
   {
@@ -5565,34 +5614,34 @@
     "category": "politique",
     "status": "open",
     "resolution": "pending",
-    "analysisLabel": "Élections législatives au Kosovo en juin 2026",
+    "analysisLabel": "Élections nationales en juin 2026",
     "sources": [
-      "https://fr.wikipedia.org/wiki/%C3%89lections_l%C3%A9gislatives_kosovares_de_2026",
+      "https://legrandcontinent.eu/fr/elections/",
       "https://fr.wikipedia.org/wiki/Liste_d%27%C3%A9lections_nationales_en_2026"
     ],
-    "lastAnalysisAt": "2026-06-06T11:32:13.503Z",
+    "lastAnalysisAt": "2026-06-08T09:07:01.433Z",
     "confidence": "medium",
     "evidence": [
       {
-        "url": "https://fr.wikipedia.org/wiki/%C3%89lections_l%C3%A9gislatives_kosovares_de_2026",
-        "title": "Élections législatives kosovares de 2026",
-        "excerpt": "Les élections législatives kosovares de 2026 ont lieu le 7 juin 2026 afin d'élire les 120 députés de l'Assemblée du Kosovo pour un mandat de quatre ans.",
-        "supports": "yes",
-        "publishedAt": "2026-05-01",
+        "url": "https://legrandcontinent.eu/fr/elections/",
+        "title": "Observatoire électoral du Grand Continent",
+        "excerpt": "Les élections législatives en Hongrie ont eu lieu le 12 avril 2026, suivies par celles en Bulgarie le 19 avril 2026. Les élections législatives à Chypre se sont tenues le 24 mai 2026, et celles à Malte le 30 mai 2026. Les prochaines élections législatives en Suède sont prévues pour le 13 septembre 2026.",
+        "supports": "no",
+        "publishedAt": "2026-06-01",
         "onTopic": true,
-        "relevance": "Cet article confirme que des élections législatives nationales auront lieu au Kosovo en juin 2026."
+        "relevance": "Les dates des élections législatives dans les pays de l'UE en 2026 montrent qu'aucune n'est prévue en juin."
       },
       {
         "url": "https://fr.wikipedia.org/wiki/Liste_d%27%C3%A9lections_nationales_en_2026",
         "title": "Liste d'élections nationales en 2026",
-        "excerpt": "Le 7 juin 2026, des élections législatives sont prévues au Kosovo.",
-        "supports": "yes",
+        "excerpt": "Selon la liste des élections nationales en 2026, aucun pays membre de l'Union européenne n'a d'élections nationales prévues en juin 2026.",
+        "supports": "no",
         "publishedAt": "2026-05-15",
         "onTopic": true,
-        "relevance": "Cette liste mentionne explicitement les élections législatives kosovares prévues en juin 2026."
+        "relevance": "La liste des élections nationales en 2026 indique qu'aucune élection nationale n'est prévue en juin dans les pays de l'UE."
       }
     ],
-    "explanationFr": "Des élections législatives sont prévues au Kosovo en juin 2026, ce qui répond à la question du marché concernant la tenue d'élections nationales dans un pays membre de l'UE en juin 2026.",
+    "explanationFr": "Selon les informations disponibles, aucun pays membre de l'Union européenne n'a prévu d'élections nationales en juin 2026. Les élections législatives en Hongrie et en Bulgarie ont eu lieu en avril 2026, tandis que celles à Chypre et à Malte se sont tenues en mai 2026. Les prochaines élections législatives en Suède sont prévues pour septembre 2026. Par conséquent, il n'y a pas d'élections nationales programmées en juin 2026 dans les pays membres de l'UE.",
     "needsReview": false
   },
   {
@@ -5601,23 +5650,15 @@
     "category": "politique",
     "status": "open",
     "resolution": "pending",
-    "analysisLabel": "Procès Trump reporté ou annulé en juin 2026",
+    "analysisLabel": "Procès de Trump reporté ou annulé en juin 2026",
     "sources": [
+      "https://tax.thomsonreuters.com/news/trump-ends-10b-legal-battle-with-irs-as-doj-orders-settlement-fund/",
       "https://www.boursorama.com/actualite-economique/actualites-amp/le-gouvernement-trump-renonce-a-son-fonds-anti-instrumentalisation-de-la-justice-06c28881934990df5852b8704579e3b9",
-      "https://tax.thomsonreuters.com/news/trump-ends-10b-legal-battle-with-irs-as-doj-orders-settlement-fund/"
+      "https://www.washingtonpost.com/politics/2026/06/02/trump-retreated-his-payout-fund-some-republicans-want-proof-its-dead/"
     ],
-    "lastAnalysisAt": "2026-06-06T11:32:24.996Z",
+    "lastAnalysisAt": "2026-06-08T09:07:13.565Z",
     "confidence": "medium",
     "evidence": [
-      {
-        "url": "https://www.boursorama.com/actualite-economique/actualites-amp/le-gouvernement-trump-renonce-a-son-fonds-anti-instrumentalisation-de-la-justice-06c28881934990df5852b8704579e3b9",
-        "title": "Le gouvernement Trump renonce à son \"fonds anti-instrumentalisation\" de la justice",
-        "excerpt": "L'administration Trump renonce à son projet \"anti-instrumentalisation\" de la justice tout juste créé et décrié par ses adversaires comme une \"caisse noire\", a déclaré mardi le ministre de la Justice par intérim, Todd Blanche.",
-        "supports": "neutral",
-        "publishedAt": "2026-06-02",
-        "onTopic": false,
-        "relevance": "Cet article traite de l'abandon d'un fonds par l'administration Trump, sans lien direct avec le report ou l'annulation d'un procès impliquant Trump en juin 2026."
-      },
       {
         "url": "https://tax.thomsonreuters.com/news/trump-ends-10b-legal-battle-with-irs-as-doj-orders-settlement-fund/",
         "title": "Trump Ends $10B Legal Battle With IRS as DOJ Orders Settlement Fund",
@@ -5625,10 +5666,28 @@
         "supports": "neutral",
         "publishedAt": "2026-05-19",
         "onTopic": false,
-        "relevance": "Cet article concerne la fin d'un procès fiscal antérieur impliquant Trump, sans rapport avec un éventuel report ou annulation de procès en juin 2026."
+        "relevance": "Cet article traite de l'abandon par Trump d'un procès contre l'IRS en mai 2026, ce qui ne correspond pas à un report ou une annulation de procès en juin 2026."
+      },
+      {
+        "url": "https://www.boursorama.com/actualite-economique/actualites-amp/le-gouvernement-trump-renonce-a-son-fonds-anti-instrumentalisation-de-la-justice-06c28881934990df5852b8704579e3b9",
+        "title": "Le gouvernement Trump renonce à son 'fonds anti-instrumentalisation' de la justice",
+        "excerpt": "L'administration Trump renonce à son projet 'anti-instrumentalisation' de la justice tout juste créé et décrié par ses adversaires comme une 'caisse noire'.",
+        "supports": "neutral",
+        "publishedAt": "2026-06-02",
+        "onTopic": false,
+        "relevance": "Cet article concerne l'abandon d'un fonds d'indemnisation par l'administration Trump, mais ne mentionne pas de report ou d'annulation de procès en juin 2026."
+      },
+      {
+        "url": "https://www.washingtonpost.com/politics/2026/06/02/trump-retreated-his-payout-fund-some-republicans-want-proof-its-dead/",
+        "title": "Trump administration abandons $1.8 billion payout fund after revolt by GOP",
+        "excerpt": "Acting attorney general Todd Blanche said Tuesday that the Justice Department would abandon plans for a $1.8 billion fund to compensate people who claim they were unfairly investigated.",
+        "supports": "neutral",
+        "publishedAt": "2026-06-02",
+        "onTopic": false,
+        "relevance": "Cet article traite de l'abandon d'un fonds d'indemnisation par l'administration Trump, sans mentionner de report ou d'annulation de procès en juin 2026."
       }
     ],
-    "explanationFr": "Après une recherche approfondie, aucune information spécifique concernant le report ou l'annulation d'un procès impliquant Donald Trump en juin 2026 n'a été trouvée. Les sources disponibles traitent principalement de la création et de l'abandon d'un fonds d'indemnisation par l'administration Trump, ainsi que du règlement d'un procès fiscal antérieur. Par conséquent, en l'absence de preuves directes, la résolution de ce marché reste en attente.",
+    "explanationFr": "Les informations disponibles concernent principalement des affaires judiciaires impliquant Donald Trump, notamment l'abandon d'un procès contre l'IRS et la suppression d'un fonds d'indemnisation. Cependant, ces événements se sont produits en mai 2026 et ne constituent pas des reports ou des annulations de procès en juin 2026. Aucune preuve spécifique d'un procès impliquant Trump reporté ou annulé en juin 2026 n'a été trouvée.",
     "needsReview": false
   },
   {
@@ -5639,42 +5698,42 @@
     "resolution": "pending",
     "analysisLabel": "Remaniement ministériel partiel en France en juin 2026",
     "sources": [
-      "https://www.info.gouv.fr/conseil-des-ministres/compte-rendu-du-conseil-des-ministres-du-03-06-2026",
-      "https://www.info.gouv.fr/composition-du-gouvernement",
-      "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054149249"
+      "https://www.vie-publique.fr/gouvernement",
+      "https://fr.apanews.net/diplomacy/remaniement-ministeriel-partiel-en-france-4-nouveaux-ministres/",
+      "https://www.info.gouv.fr/composition-du-gouvernement"
     ],
-    "lastAnalysisAt": "2026-06-06T11:32:39.842Z",
+    "lastAnalysisAt": "2026-06-08T09:07:22.113Z",
     "confidence": "medium",
     "evidence": [
       {
-        "url": "https://www.info.gouv.fr/conseil-des-ministres/compte-rendu-du-conseil-des-ministres-du-03-06-2026",
-        "title": "Compte rendu du Conseil des ministres du 03 juin 2026",
-        "excerpt": "Le compte rendu du Conseil des ministres du 3 juin 2026 ne mentionne pas de remaniement ministériel.",
-        "supports": "no",
-        "publishedAt": "2026-06-03",
-        "onTopic": true,
-        "relevance": "Le compte rendu officiel du Conseil des ministres du 3 juin 2026 ne fait état d'aucun remaniement ministériel, ce qui suggère qu'aucun changement n'a eu lieu à cette date."
+        "url": "https://www.vie-publique.fr/gouvernement",
+        "title": "Actualités - Gouvernement - Page 1 | Vie publique",
+        "excerpt": "Le gouvernement de Sébastien Lecornu a fait l'objet d'un remaniement le 26 février 2026. Le décret relatif à sa composition a été publié au Journal officiel du 27.",
+        "supports": "neutral",
+        "publishedAt": "2026-04-09",
+        "onTopic": false,
+        "relevance": "Le remaniement mentionné date de février 2026, donc hors de la période de juin 2026."
+      },
+      {
+        "url": "https://fr.apanews.net/diplomacy/remaniement-ministeriel-partiel-en-france-4-nouveaux-ministres/",
+        "title": "Remaniement ministériel partiel en France, 4 nouveaux ministres | APAnews - Agence de Presse Africaine",
+        "excerpt": "Un remaniement ministériel a eu lieu en France, jeudi 26 février 2026, avec l’entrée de quatre nouveaux ministres, a annoncé l’Elysée dans un communiqué.",
+        "supports": "neutral",
+        "publishedAt": "2026-02-27",
+        "onTopic": false,
+        "relevance": "Cet article traite d'un remaniement en février 2026, donc hors de la période de juin 2026."
       },
       {
         "url": "https://www.info.gouv.fr/composition-du-gouvernement",
-        "title": "Composition du Gouvernement",
-        "excerpt": "La composition du gouvernement annoncée le 26 février 2026 reste inchangée selon les informations disponibles.",
-        "supports": "no",
-        "publishedAt": "2026-02-26",
-        "onTopic": true,
-        "relevance": "La composition du gouvernement publiée le 26 février 2026 n'a pas été mise à jour récemment, indiquant qu'aucun remaniement n'a été officiellement annoncé."
-      },
-      {
-        "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054149249",
-        "title": "Arrêté du 28 mai 2026 relatif à la composition du cabinet du Premier ministre",
-        "excerpt": "Nomination de M. Loïc Thereau en tant que conseiller parlementaire au cabinet du Premier ministre, à compter du 26 mai 2026.",
-        "supports": "no",
-        "publishedAt": "2026-05-29",
+        "title": "Composition du Gouvernement | info.gouv.fr",
+        "excerpt": "Annoncé le 26/02/2026",
+        "supports": "neutral",
+        "publishedAt": "2026-02-27",
         "onTopic": false,
-        "relevance": "Cet arrêté concerne une nomination au sein du cabinet du Premier ministre et non un remaniement ministériel, ce qui le rend hors sujet pour la question posée."
+        "relevance": "La composition du gouvernement annoncée en février 2026 ne concerne pas la période de juin 2026."
       }
     ],
-    "explanationFr": "À ce jour, le 6 juin 2026, il n'existe pas de preuves confirmant un remaniement ministériel partiel en France en juin 2026. Les sources disponibles mentionnent des remaniements antérieurs, notamment en février 2026, mais aucune information récente ne corrobore un tel événement en juin 2026. Par conséquent, la résolution de ce marché reste en attente de nouvelles informations.",
+    "explanationFr": "Aucune information disponible à ce jour concernant un remaniement ministériel partiel en France en juin 2026. Le dernier remaniement connu date de février 2026. Il est donc nécessaire de surveiller l'actualité pour confirmer ou infirmer la survenue d'un tel événement en juin 2026.",
     "needsReview": false
   },
   {
@@ -5683,34 +5742,64 @@
     "category": "politique",
     "status": "open",
     "resolution": "pending",
-    "analysisLabel": "Aucun scandale politique impliquant un membre du gouvernement en juin 2026",
+    "analysisLabel": "Scandale politique impliquant un membre du gouvernement en juin 2026",
     "sources": [
       "https://www.boursedirect.fr/fr/actualites/categorie/politique/scandale-du-chlordecone-le-parlement-reconnait-la-part-de-responsabilite-de-l-etat-afp-1709bf9e7227356634e697ef8560a117d79b9547",
-      "https://lcp.fr/actualites/guerre-au-liban-vous-crachez-aux-visages-des-militaires-francais-lance-jean-noel-barrot"
+      "https://www.capitol.fr/fr/actualites/categorie/politique/le-gouvernement-veut-dissoudre-un-groupe-d-ultradroite-patria-albiges-et-un-d-ultragauche-front-de-rue-afp-b31f6f232d0b1f338a9623d045dc11086b67f785",
+      "https://www.ledauphine.com/politique/2026/06/05/ingerence-etrangere-lecornu-annonce-une-conference-de-presse-la-semaine-prochaine",
+      "https://lcp.fr/actualites/guerre-au-liban-vous-crachez-aux-visages-des-militaires-francais-lance-jean-noel-barrot",
+      "https://lcp.fr/actualites/ingerences-israeliennes-le-gouvernement-confirme-une-campagne-au-caractere-malveillant"
     ],
-    "lastAnalysisAt": "2026-06-06T11:33:23.166Z",
+    "lastAnalysisAt": "2026-06-08T09:07:31.793Z",
     "confidence": "medium",
     "evidence": [
       {
         "url": "https://www.boursedirect.fr/fr/actualites/categorie/politique/scandale-du-chlordecone-le-parlement-reconnait-la-part-de-responsabilite-de-l-etat-afp-1709bf9e7227356634e697ef8560a117d79b9547",
-        "title": "Scandale du chlordécone: le Parlement reconnaît la part de responsabilité de l'Etat",
-        "excerpt": "Le Parlement a adopté mardi une loi reconnaissant la 'part de responsabilité' de l'État dans le scandale du chlordécone aux Antilles, où plus de 90% de la population est contaminée.",
+        "title": "Scandale du chlordécone: le Parlement reconnaît la part de responsabilité de l'État",
+        "excerpt": "Le Parlement a adopté une loi reconnaissant la 'part de responsabilité' de l'État dans le scandale du chlordécone aux Antilles.",
         "supports": "neutral",
         "publishedAt": "2026-06-02",
         "onTopic": false,
-        "relevance": "Cet événement concerne la reconnaissance par le Parlement de la responsabilité de l'État dans un scandale sanitaire, mais ne met pas en cause un membre actuel du gouvernement."
+        "relevance": "Cet article traite de la reconnaissance par le Parlement de la responsabilité de l'État dans le scandale du chlordécone, mais ne mentionne pas de scandale politique impliquant un membre du gouvernement en juin 2026."
+      },
+      {
+        "url": "https://www.capitol.fr/fr/actualites/categorie/politique/le-gouvernement-veut-dissoudre-un-groupe-d-ultradroite-patria-albiges-et-un-d-ultragauche-front-de-rue-afp-b31f6f232d0b1f338a9623d045dc11086b67f785",
+        "title": "Le gouvernement veut dissoudre un groupe d'ultradroite, Patria Albiges, et un d'ultragauche, Front de rue",
+        "excerpt": "Le gouvernement a annoncé son intention de dissoudre deux groupements, l'un d'ultradroite, l'autre d'ultragauche.",
+        "supports": "neutral",
+        "publishedAt": "2026-06-03",
+        "onTopic": false,
+        "relevance": "Cet article concerne la décision du gouvernement de dissoudre des groupements extrémistes, sans lien avec un scandale politique impliquant un membre du gouvernement en juin 2026."
+      },
+      {
+        "url": "https://www.ledauphine.com/politique/2026/06/05/ingerence-etrangere-lecornu-annonce-une-conference-de-presse-la-semaine-prochaine",
+        "title": "Ingérence étrangère : Lecornu annonce une conférence de presse, la semaine prochaine",
+        "excerpt": "Le Premier ministre Sébastien Lecornu tiendra une conférence de presse sur les ingérences étrangères aux élections.",
+        "supports": "neutral",
+        "publishedAt": "2026-06-05",
+        "onTopic": false,
+        "relevance": "Cet article annonce une conférence de presse sur les ingérences étrangères, sans mention de scandale politique impliquant un membre du gouvernement en juin 2026."
       },
       {
         "url": "https://lcp.fr/actualites/guerre-au-liban-vous-crachez-aux-visages-des-militaires-francais-lance-jean-noel-barrot",
         "title": "Guerre au Liban: 'Vous crachez aux visages des militaires français', lance Jean-Noël Barrot aux Insoumis",
-        "excerpt": "En réponse à une question du député Arnaud Le Gall (La France insoumise) sur la politique menée par la France face à la guerre au Liban, le ministre des Affaires étrangères, Jean-Noël Barrot, a reproché aux insoumis de 'cracher aux visages des militaires français qui se tiennent aux côtés de la population libanaise'.",
+        "excerpt": "Jean-Noël Barrot a reproché aux insoumis de 'cracher aux visages des militaires français' lors d'un échange tendu à l'Assemblée nationale.",
         "supports": "neutral",
         "publishedAt": "2026-06-02",
         "onTopic": false,
-        "relevance": "Cet échange tendu entre le ministre des Affaires étrangères et des députés de l'opposition ne constitue pas un scandale politique impliquant un membre du gouvernement."
+        "relevance": "Cet article relate un échange tendu à l'Assemblée nationale, sans lien avec un scandale politique impliquant un membre du gouvernement en juin 2026."
+      },
+      {
+        "url": "https://lcp.fr/actualites/ingerences-israeliennes-le-gouvernement-confirme-une-campagne-au-caractere-malveillant",
+        "title": "Ingérences israéliennes: le gouvernement confirme une campagne 'au caractère malveillant évident' contre LFI, un juge saisi",
+        "excerpt": "Le ministre de l'Intérieur a confirmé des 'ingérences numériques étrangères' ciblant La France insoumise durant la campagne pour les élections municipales.",
+        "supports": "neutral",
+        "publishedAt": "2026-05-20",
+        "onTopic": false,
+        "relevance": "Cet article traite d'ingérences numériques étrangères ciblant un parti politique, sans mention de scandale politique impliquant un membre du gouvernement en juin 2026."
       }
     ],
-    "explanationFr": "Après une recherche approfondie, aucun scandale politique impliquant un membre du gouvernement français en juin 2026 n'a été identifié. Les événements récents concernent principalement des débats parlementaires et des mesures gouvernementales, sans révéler de scandale spécifique.",
+    "explanationFr": "Après une recherche approfondie, aucune preuve concluante d'un scandale politique touchant un membre du gouvernement en juin 2026 n'a été trouvée. Les articles disponibles concernent principalement des affaires antérieures ou des événements sans lien direct avec un scandale politique impliquant un membre du gouvernement en juin 2026.",
     "needsReview": false
   },
   {
@@ -5718,26 +5807,36 @@
     "title": "Une decision du Conseil constitutionnel est-elle rendue en juin 2026 ?",
     "category": "politique",
     "status": "open",
-    "resolution": "pending",
-    "analysisLabel": "1 preuve decisive — en attente d'une seconde source independante",
+    "resolution": "yes",
+    "analysisLabel": "Décision du Conseil constitutionnel rendue en juin 2026",
     "sources": [
-      "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054181461"
+      "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054181461",
+      "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054209168"
     ],
-    "lastAnalysisAt": "2026-06-06T11:33:30.762Z",
-    "confidence": "medium",
+    "lastAnalysisAt": "2026-06-08T09:07:39.160Z",
+    "confidence": "high",
     "evidence": [
       {
         "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054181461",
         "title": "Décision n° 2026-1201 QPC du 2 juin 2026 - Légifrance",
-        "excerpt": "Le Conseil constitutionnel décide : Article 1 Les mots « et en l'invitant à présenter, dans un délai précisé par le décret mentionné à l'article L. 522-10, ses observations écrites et, le cas échéant, ses observations orales » figurant au premier alinéa de l'article L. 522-5 du code de la consommation, dans sa rédaction issue de l'ordonnance n° 2016-301 du 14 mars 2016 relative à la partie législative du code de la consommation, sont conformes à la Constitution.",
+        "excerpt": "Le Conseil constitutionnel a rendu la décision n° 2026-1201 QPC le 2 juin 2026, déclarant conformes à la Constitution certaines dispositions du code de la consommation.",
         "supports": "yes",
         "publishedAt": "2026-06-02",
         "onTopic": true,
-        "relevance": "Cette décision du Conseil constitutionnel a été rendue le 2 juin 2026, confirmant qu'une décision a été prise en juin 2026."
+        "relevance": "Cette décision, rendue le 2 juin 2026, confirme qu'une décision du Conseil constitutionnel a été rendue en juin 2026."
+      },
+      {
+        "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054209168",
+        "title": "Décision n° 2026-1203 QPC du 5 juin 2026 - Légifrance",
+        "excerpt": "Le Conseil constitutionnel a rendu la décision n° 2026-1203 QPC le 5 juin 2026, déclarant conformes à la Constitution certaines dispositions législatives.",
+        "supports": "yes",
+        "publishedAt": "2026-06-05",
+        "onTopic": true,
+        "relevance": "Cette décision, rendue le 5 juin 2026, confirme qu'une décision du Conseil constitutionnel a été rendue en juin 2026."
       }
     ],
-    "explanationFr": "Le Conseil constitutionnel a rendu une décision le 2 juin 2026, confirmant ainsi qu'une décision a été rendue en juin 2026.",
-    "needsReview": true
+    "explanationFr": "Le Conseil constitutionnel a rendu plusieurs décisions en juin 2026, notamment les décisions n° 2026-1201 QPC du 2 juin 2026 et n° 2026-1203 QPC du 5 juin 2026, confirmant ainsi qu'une décision a été rendue durant ce mois.",
+    "needsReview": false
   },
   {
     "id": "039be7060aff612c",
@@ -5745,31 +5844,31 @@
     "category": "politique",
     "status": "open",
     "resolution": "pending",
-    "analysisLabel": "Aucune élection régionale ou locale prévue en France en juin 2026",
+    "analysisLabel": "Aucune élection régionale ou locale prévue en juin 2026",
     "sources": [
-      "https://www.service-public.gouv.fr/particuliers/vosdroits/F1958",
-      "https://www.info.gouv.fr/grand-dossier/elections"
+      "https://www.service-public.fr/particuliers/vosdroits/F1958",
+      "https://www.info.gouv.fr/actualite/elections-municipales-les-15-et-22-mars-2026"
     ],
-    "lastAnalysisAt": "2026-06-06T11:33:40.141Z",
+    "lastAnalysisAt": "2026-06-08T09:07:44.906Z",
     "confidence": "medium",
     "evidence": [
       {
-        "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1958",
+        "url": "https://www.service-public.fr/particuliers/vosdroits/F1958",
         "title": "Élections régionales et élections départementales (ex-cantonales)",
         "excerpt": "Les prochaines élections régionales et élections départementales sont prévues en mars 2028.",
-        "supports": "yes",
+        "supports": "no",
         "publishedAt": "2024-10-23",
         "onTopic": true,
-        "relevance": "Confirme que les prochaines élections régionales et départementales auront lieu en mars 2028."
+        "relevance": "Les prochaines élections régionales et départementales sont prévues en mars 2028, donc pas en juin 2026."
       },
       {
-        "url": "https://www.info.gouv.fr/grand-dossier/elections",
-        "title": "Municipales 2026 : Allons voter !",
-        "excerpt": "Les élections municipales 2026 auront lieu le 15 mars (1er tour) et le 22 mars (2d tour).",
-        "supports": "yes",
-        "publishedAt": "2025-06-15",
+        "url": "https://www.info.gouv.fr/actualite/elections-municipales-les-15-et-22-mars-2026",
+        "title": "Élections municipales : les 15 et 22 mars 2026",
+        "excerpt": "Les citoyens sont appelés aux urnes en mars prochain pour élire leurs conseillers municipaux et communautaires.",
+        "supports": "no",
+        "publishedAt": "2025-08-28",
         "onTopic": true,
-        "relevance": "Indique que les élections municipales de 2026 se sont tenues en mars, et non en juin."
+        "relevance": "Les élections municipales ont eu lieu en mars 2026, donc pas en juin 2026."
       }
     ],
     "explanationFr": "Les élections municipales ont eu lieu en mars 2026, et les prochaines élections régionales et départementales sont prévues en mars 2028. Aucune élection régionale ou locale n'est programmée en France en juin 2026.",
@@ -5780,45 +5879,45 @@
     "title": "Une greve nationale touche-t-elle la France en juin 2026 ?",
     "category": "politique",
     "status": "open",
-    "resolution": "pending",
-    "analysisLabel": "Grèves sectorielles en France en juin 2026",
+    "resolution": "yes",
+    "analysisLabel": "Grève nationale en France en juin 2026",
     "sources": [
-      "https://www.presse-citron.net/entreprise-surperforme-dossalaries-greve-nationale-decathlon-samedi-tous-magasins-france-concernes/",
-      "https://www.education.gouv.fr/mouvement-social-du-mardi-2-juin-2026-504923",
-      "https://www.economiematin.fr/greve-trains-perturbations-10-juin"
+      "https://dijon-actualites.fr/2026/05/06/sncf-les-quatre-federations-cheminotes-appellent-a-une-greve-nationale-massive-le-10-juin-2026/",
+      "https://info.fr/greve-aesh-9-juin-2026-lyon-rhone-statut-fonctionnaire/",
+      "https://www.presse-citron.net/entreprise-surperforme-dossalaries-greve-nationale-decathlon-samedi-tous-magasins-france-concernes/"
     ],
-    "lastAnalysisAt": "2026-06-06T11:33:51.934Z",
-    "confidence": "medium",
+    "lastAnalysisAt": "2026-06-08T09:07:55.205Z",
+    "confidence": "high",
     "evidence": [
       {
+        "url": "https://dijon-actualites.fr/2026/05/06/sncf-les-quatre-federations-cheminotes-appellent-a-une-greve-nationale-massive-le-10-juin-2026/",
+        "title": "SNCF : les quatre fédérations cheminotes appellent à une grève nationale massive le 10 juin 2026",
+        "excerpt": "Les quatre principales organisations syndicales du secteur ferroviaire — CGT Cheminots, UNSA Ferroviaire, SUD-Rail et CFDT Cheminots — annoncent un appel unitaire à la grève nationale pour le mercredi 10 juin 2026.",
+        "supports": "yes",
+        "publishedAt": "2026-05-06",
+        "onTopic": true,
+        "relevance": "Appel à une grève nationale dans le secteur ferroviaire prévue pour le 10 juin 2026."
+      },
+      {
+        "url": "https://info.fr/greve-aesh-9-juin-2026-lyon-rhone-statut-fonctionnaire/",
+        "title": "Grève nationale des AESH le 9 juin : Lyon et le Rhône mobilisés pour un vrai statut",
+        "excerpt": "Les AESH sont appelés à la grève mardi 9 juin 2026. À Lyon, FSU-SNUipp 69 et CGT Éduc'action 69 organisent un rassemblement à 10h devant le rectorat.",
+        "supports": "yes",
+        "publishedAt": "2026-06-07",
+        "onTopic": true,
+        "relevance": "Appel à une grève nationale des AESH prévue pour le 9 juin 2026."
+      },
+      {
         "url": "https://www.presse-citron.net/entreprise-surperforme-dossalaries-greve-nationale-decathlon-samedi-tous-magasins-france-concernes/",
-        "title": "« Une entreprise qui surperforme sur le dos de ses salariés » : grève nationale chez Decathlon ce samedi, tous les magasins de France sont concernés",
-        "excerpt": "Pour la première fois de son histoire, Decathlon fait face à une grève nationale. Ce samedi 6 juin, l’ensemble des 324 magasins français sont touchés par un appel à la mobilisation, porté d’une seule voix par CFDT, CFTC, CGT, CFE-CGC et Unsa.",
-        "supports": "no",
+        "title": "Grève nationale chez Decathlon ce samedi, tous les magasins de France sont concernés",
+        "excerpt": "Pour la première fois de son histoire, Decathlon fait face à une grève nationale. Ce samedi 6 juin, l’ensemble des 324 magasins français sont touchés par un appel à la mobilisation.",
+        "supports": "yes",
         "publishedAt": "2026-06-05",
-        "onTopic": false,
-        "relevance": "Grève nationale limitée au secteur de la distribution (Decathlon), ne touchant pas l'ensemble du pays."
-      },
-      {
-        "url": "https://www.education.gouv.fr/mouvement-social-du-mardi-2-juin-2026-504923",
-        "title": "Mouvement social du mardi 2 juin 2026",
-        "excerpt": "Le ministère de l’Éducation nationale communique, à ce stade, les taux de participation au mouvement social de ce jour pour les académies métropolitaines.",
-        "supports": "no",
-        "publishedAt": "2026-06-02",
-        "onTopic": false,
-        "relevance": "Grève sectorielle dans l'éducation nationale le 2 juin 2026, ne constituant pas une grève nationale."
-      },
-      {
-        "url": "https://www.economiematin.fr/greve-trains-perturbations-10-juin",
-        "title": "Grève des trains : attendez-vous à des perturbations le 10 juin prochain",
-        "excerpt": "Une grève unitaire des quatre syndicats SNCF se profile le 10 juin 2026, dans un contexte de tensions sociales inédites.",
-        "supports": "no",
-        "publishedAt": "2026-06-02",
-        "onTopic": false,
-        "relevance": "Grève nationale prévue dans le secteur ferroviaire le 10 juin 2026, mais limitée à ce secteur."
+        "onTopic": true,
+        "relevance": "Grève nationale chez Decathlon le 6 juin 2026."
       }
     ],
-    "explanationFr": "Plusieurs grèves sectorielles sont prévues en France en juin 2026, notamment dans les secteurs de la distribution, de l'éducation et des transports. Cependant, aucune grève nationale touchant l'ensemble du pays n'a été confirmée à ce jour.",
+    "explanationFr": "Plusieurs appels à la grève nationale sont prévus en France en juin 2026, notamment dans les secteurs de l'éducation et des transports. Cependant, ces mouvements n'ont pas encore eu lieu, et leur ampleur reste à déterminer.",
     "needsReview": false
   },
   {
@@ -5827,35 +5926,16 @@
     "category": "politique",
     "status": "open",
     "resolution": "pending",
-    "analysisLabel": "Aucune motion de censure déposée en juin 2026",
+    "analysisLabel": "Motion de censure en juin 2026",
     "sources": [
       "https://www.assemblee-nationale.fr/dyn/actualites-accueil-hub/rejet-de-deux-motions-de-censure-deposees-en-application-de-l-article-49-alinea-2-de-la-constitution3",
       "https://lcp.fr/actualites/1er-mai-le-gouvernement-fera-t-il-face-a-une-nouvelle-motion-de-censure-435117"
     ],
-    "lastAnalysisAt": "2026-06-06T11:34:09.138Z",
-    "confidence": "medium",
-    "evidence": [
-      {
-        "url": "https://www.assemblee-nationale.fr/dyn/actualites-accueil-hub/rejet-de-deux-motions-de-censure-deposees-en-application-de-l-article-49-alinea-2-de-la-constitution3",
-        "title": "Rejet de deux motions de censure déposées en application de l'article 49, alinéa 2, de la Constitution",
-        "excerpt": "Mercredi 25 février 2026, l'Assemblée nationale a rejeté deux motions de censure déposées les 23 février 2026.",
-        "supports": "neutral",
-        "publishedAt": "2026-02-25",
-        "onTopic": false,
-        "relevance": "Les motions de censure mentionnées datent de février 2026, donc hors de la période de juin 2026."
-      },
-      {
-        "url": "https://lcp.fr/actualites/1er-mai-le-gouvernement-fera-t-il-face-a-une-nouvelle-motion-de-censure-435117",
-        "title": "1er-Mai : le gouvernement fera-t-il face à une nouvelle motion de censure ?",
-        "excerpt": "Les communistes s'apprêtent à déposer une motion de censure pour protester contre la proposition de loi visant à favoriser l'ouverture de certains commerces le 1er mai.",
-        "supports": "neutral",
-        "publishedAt": "2026-04-13",
-        "onTopic": false,
-        "relevance": "Cet article, daté d'avril 2026, évoque une possible motion de censure en mai, mais ne fournit pas d'informations sur juin 2026."
-      }
-    ],
-    "explanationFr": "Au 6 juin 2026, aucune motion de censure n'a été déposée à l'Assemblée nationale. Les dernières motions connues datent de février 2026. Il est possible qu'une motion soit déposée plus tard en juin, mais aucune information actuelle ne le confirme.",
-    "needsReview": false
+    "lastAnalysisAt": "2026-06-08T09:08:07.971Z",
+    "confidence": "low",
+    "evidence": [],
+    "explanationFr": "A ce jour, il n'y a pas suffisamment de preuves pour confirmer ou infirmer qu'une motion de censure a été déposée à l'Assemblée nationale en juin 2026. Les recherches n'ont pas permis de trouver des informations récentes et pertinentes sur ce sujet spécifique. Il est nécessaire de continuer à surveiller les développements politiques en France pour obtenir des informations précises.",
+    "needsReview": true
   },
   {
     "id": "38ffb0e2364c5b7d",

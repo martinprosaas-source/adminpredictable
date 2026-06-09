@@ -10,6 +10,12 @@ type AnalyzeSummary = {
   scope?: string;
 };
 
+type AnalyzeProgress = {
+  current: number;
+  total: number;
+  title?: string;
+};
+
 type ListMode = "active" | "resolved";
 
 const statusClass: Record<MarketStatus, string> = {
@@ -68,6 +74,7 @@ export default function Page() {
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState<string | null>(null);
   const [analyzeSummary, setAnalyzeSummary] = useState<AnalyzeSummary | null>(null);
+  const [analyzeProgress, setAnalyzeProgress] = useState<AnalyzeProgress | null>(null);
   const [expandedId, setExpandedId] = useState<string | null>(null);
 
   async function loadMarkets(currentCategory: Category, mode: ListMode): Promise<void> {
@@ -93,23 +100,51 @@ export default function Page() {
       setLoading(true);
       setError(null);
       setAnalyzeSummary(null);
-      const res = await fetch("/api/analyze", {
-        method: "POST",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ category })
-      });
-      const json = (await res.json()) as AnalyzeSummary & { error?: string };
-      if (!res.ok) throw new Error(json.error ?? "Analyse impossible");
-      setAnalyzeSummary({
-        updated: json.updated,
-        skipped: json.skipped,
-        scope: json.scope
-      });
+      setAnalyzeProgress(null);
+
+      const listRes = await fetch(`/api/markets?category=${category}&resolved=false`);
+      const listJson = (await listRes.json()) as { markets?: Market[]; error?: string };
+      if (!listRes.ok) throw new Error(listJson.error ?? "Impossible de lister les marches");
+
+      const queue = listJson.markets ?? [];
+      if (queue.length === 0) {
+        setAnalyzeSummary({ updated: 0, skipped: 0, scope: category });
+        return;
+      }
+
+      let updated = 0;
+      let skipped = 0;
+
+      for (let i = 0; i < queue.length; i++) {
+        const market = queue[i];
+        setAnalyzeProgress({ current: i + 1, total: queue.length, title: market.title });
+
+        const res = await fetch("/api/analyze", {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify({ category, marketId: market.id })
+        });
+        const json = (await res.json()) as {
+          error?: string;
+          details?: string;
+          skipped?: boolean;
+          updated?: boolean;
+        };
+        if (!res.ok) {
+          const detail = json.details ? ` — ${json.details}` : "";
+          throw new Error(`${json.error ?? "Analyse impossible"}${detail}`);
+        }
+        if (json.skipped) skipped += 1;
+        else updated += 1;
+      }
+
+      setAnalyzeSummary({ updated, skipped, scope: category });
       await loadMarkets(category, "active");
     } catch (e) {
       setError(e instanceof Error ? e.message : "Erreur pendant l'analyse");
     } finally {
       setLoading(false);
+      setAnalyzeProgress(null);
     }
   }
 
@@ -242,6 +277,12 @@ export default function Page() {
             Vider la categorie
           </button>
         </div>
+        {analyzeProgress ? (
+          <p className="mt-3 text-sm text-indigo-200">
+            Analyse {analyzeProgress.current}/{analyzeProgress.total}
+            {analyzeProgress.title ? ` — ${analyzeProgress.title}` : ""}
+          </p>
+        ) : null}
         {analyzeMessage ? <p className="mt-3 text-sm text-slate-300">{analyzeMessage}</p> : null}
       </section>
       ) : null}
