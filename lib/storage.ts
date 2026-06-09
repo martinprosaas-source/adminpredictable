@@ -9,7 +9,7 @@ const BLOB_PATHNAME = "markets.json";
 export const BLOB_SETUP_HINT =
   "Vercel → Storage → Blob → Create → Connect to Project → Redeploy (injecte BLOB_READ_WRITE_TOKEN).";
 
-export type StorageMode = "blob" | "file";
+export type StorageMode = "file" | "blob" | "bundled";
 
 export function isVercelRuntime(): boolean {
   return process.env.VERCEL === "1";
@@ -21,13 +21,19 @@ export function hasBlobStorage(): boolean {
   );
 }
 
+export function canPersistMarkets(): boolean {
+  if (isVercelRuntime()) return hasBlobStorage();
+  return true;
+}
+
 export function getStorageMode(): StorageMode {
-  if (isVercelRuntime() || hasBlobStorage()) return "blob";
+  if (hasBlobStorage()) return "blob";
+  if (isVercelRuntime()) return "bundled";
   return "file";
 }
 
 function assertBlobReady(): void {
-  if (getStorageMode() === "blob" && !hasBlobStorage()) {
+  if (!canPersistMarkets()) {
     throw new Error(`Stockage Blob manquant. ${BLOB_SETUP_HINT}`);
   }
 }
@@ -84,24 +90,26 @@ async function writeToBlob(markets: Market[]): Promise<void> {
 }
 
 export async function readMarkets(): Promise<Market[]> {
-  if (getStorageMode() === "blob") {
-    assertBlobReady();
-
+  if (hasBlobStorage()) {
     const fromBlob = await readFromBlob();
     if (fromBlob) return fromBlob;
 
-    const local = await readBundledMarketsFile();
-    if (local.length > 0) {
-      await writeToBlob(local);
+    const bundled = await readBundledMarketsFile();
+    if (bundled.length > 0) {
+      await writeToBlob(bundled);
     }
-    return local;
+    return bundled;
+  }
+
+  if (isVercelRuntime()) {
+    return readBundledMarketsFile();
   }
 
   return readLocalFile();
 }
 
 export async function writeMarkets(markets: Market[]): Promise<void> {
-  if (getStorageMode() === "blob") {
+  if (isVercelRuntime() || hasBlobStorage()) {
     assertBlobReady();
     await writeToBlob(markets);
     return;

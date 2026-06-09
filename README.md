@@ -38,13 +38,14 @@ L'analyse utilise OpenAI avec recherche web (Responses API), puis des regles det
 
 ## Deploiement Vercel
 
-1. **Storage → Blob** : creer un store Blob sur le projet (injecte `BLOB_READ_WRITE_TOKEN`).
-2. **Environment Variables** : `OPENAI_API_KEY` (+ `OPENAI_MODEL` optionnel).
+1. **Environment Variables** : `OPENAI_API_KEY` (+ `OPENAI_MODEL` optionnel).
+2. **Storage → Blob** : creer un store Blob et le connecter au projet (injecte `BLOB_READ_WRITE_TOKEN`).
 3. **Redeploy** apres configuration.
 
-Au premier acces, les marches du fichier `data/markets.json` sont copies dans Blob. L'analyse se fait **marche par marche** (compatible serverless).
+Sans Blob : les marches s'affichent (fichier embarque) mais **analyse / sauvegarde desactivees**.
+Avec Blob : au premier acces, `data/markets.json` est copie dans Blob. L'analyse se fait **marche par marche**.
 
-Verifier `/api/env-status` : `storage: "blob"`, `openai: true`, `blobConfigured: true`.
+Verifier `/api/env-status` : `storageReady: true`, `storage: "blob"`, `openai: true`.
 
 ## CSV supporte
 

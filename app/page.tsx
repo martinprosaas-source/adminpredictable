@@ -76,15 +76,15 @@ export default function Page() {
   const [analyzeSummary, setAnalyzeSummary] = useState<AnalyzeSummary | null>(null);
   const [analyzeProgress, setAnalyzeProgress] = useState<AnalyzeProgress | null>(null);
   const [expandedId, setExpandedId] = useState<string | null>(null);
+  const [storageReady, setStorageReady] = useState(true);
   const [storageHint, setStorageHint] = useState<string | null>(null);
 
   useEffect(() => {
     void fetch("/api/env-status")
       .then((res) => res.json())
       .then((json: { storageReady?: boolean; storageHint?: string }) => {
-        if (json.storageReady === false && json.storageHint) {
-          setStorageHint(json.storageHint);
-        }
+        setStorageReady(json.storageReady !== false);
+        setStorageHint(json.storageReady === false ? (json.storageHint ?? null) : null);
       })
       .catch(() => undefined);
   }, []);
@@ -215,7 +215,7 @@ export default function Page() {
 
       {storageHint ? (
         <div className="mb-6 rounded-lg border border-amber-500/40 bg-amber-950/40 px-4 py-3 text-sm text-amber-100">
-          <p className="font-medium">Stockage Blob non configure sur Vercel</p>
+          <p className="font-medium">Mode lecture seule — configurez Vercel Blob pour analyser</p>
           <p className="mt-1 text-amber-200/90">{storageHint}</p>
         </div>
       ) : null}
@@ -283,14 +283,16 @@ export default function Page() {
         <div className="mt-3 flex flex-wrap gap-2">
           <button
             onClick={onAnalyze}
-            disabled={loading}
+            disabled={loading || !storageReady}
+            title={storageReady ? undefined : "Configurez Vercel Blob pour sauvegarder les analyses"}
             className="rounded-md bg-emerald-600 px-3 py-2 text-sm font-medium hover:bg-emerald-500 disabled:opacity-50"
           >
             Analyser la categorie
           </button>
           <button
             onClick={onClearCategory}
-            disabled={loading}
+            disabled={loading || !storageReady}
+            title={storageReady ? undefined : "Configurez Vercel Blob pour modifier les donnees"}
             className="rounded-md bg-rose-600 px-3 py-2 text-sm font-medium hover:bg-rose-500 disabled:opacity-50"
           >
             Vider la categorie
